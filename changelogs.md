@@ -20,7 +20,7 @@
 - [Just Another Void Dimension](https://www.curseforge.com/minecraft/mc-mods/just-another-void-dimension)
 - [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed)
 - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
-- [Lighting Wand](https://www.curseforge.com/minecraft/mc-mods/lighting-wand) + [Kiwi Lib](https://www.curseforge.com/minecraft/mc-mods/kiwi))
+- [Lighting Wand](https://www.curseforge.com/minecraft/mc-mods/lighting-wand) (+ [Kiwi Lib](https://www.curseforge.com/minecraft/mc-mods/kiwi))
 - [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
 - [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
