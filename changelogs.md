@@ -1,5 +1,7 @@
 <h1>v0.3.0</h1>
 
+**AE2, Nether Ores, Silent Gear + more!**
+
 **Chest mod swapped, please empty out any chests before updating!**
 
 **NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
