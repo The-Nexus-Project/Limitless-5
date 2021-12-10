@@ -2,7 +2,7 @@
 
 **AE2, Nether Ores, Silent Gear + more!**
 
-**Note: This update includes the mc security fix.**
+**Note: This update includes security fix for CVE-2021-44228.**
 
 **Chest mod swapped, please empty out any chests before updating!**
 
