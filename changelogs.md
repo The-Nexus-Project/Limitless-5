@@ -2,6 +2,8 @@
 
 **AE2, Nether Ores, Silent Gear + more!**
 
+**Note: This update includes the mc security fix.**
+
 **Chest mod swapped, please empty out any chests before updating!**
 
 **NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
