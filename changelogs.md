@@ -1,4 +1,4 @@
-<h1>v0.3.0</h1>
+<h1>v0.3.0 / v0.3.1</h1>
 
 **AE2, Nether Ores, Silent Gear + more!**
 
@@ -58,6 +58,7 @@
 
 
 **Fixes**
+- A pretty common server crash related to **Raccoons** has been fixed. (**v0.3.1**)
 - Fixes in mod updates. 
 
 
