@@ -1,3 +1,80 @@
+<h1>v0.4.0</h1>
+
+**Updated to MC 1.18.1, and because of that some mods were removed!**
+
+**NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Armor Sound Tweak](https://www.curseforge.com/minecraft/mc-mods/armor-sound-tweak)
+- [BlockUI (Lib)](https://www.curseforge.com/minecraft/mc-mods/blockui)
+- [ChocoCraft](https://www.curseforge.com/minecraft/mc-mods/chococraft)
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) (+ [Flywheel Lib](https://www.curseforge.com/minecraft/mc-mods/flywheel))
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass)
+- [Floral Enhancement](https://www.curseforge.com/minecraft/mc-mods/floral-enchantment)
+- [Habitat](https://www.curseforge.com/minecraft/mc-mods/habitat)
+- [I Know What I'm Doing](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing)
+- [Just Enough Painting Previews](https://www.curseforge.com/minecraft/mc-mods/jepp)
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [Pickle Tweaks](https://www.curseforge.com/minecraft/mc-mods/pickle-tweaks) (+ [Cucumber Lib](https://www.curseforge.com/minecraft/mc-mods/cucumber))
+- [Vanilla Degus](https://www.curseforge.com/minecraft/mc-mods/vanilla-degus)
+
+
+**Removed**
+- [GoProne](https://www.curseforge.com/minecraft/mc-mods/goprone) (Temporarily, until updated.)
+- [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer) (Temporarily, until updated.)
+- [Potion Bundles](https://www.curseforge.com/minecraft/mc-mods/potion-bundles) (Temporarily, until updated.)
+- [WindowLogging](https://www.curseforge.com/minecraft/mc-mods/windowlogging) (Temporarily, until updated.)
+
+
+**Changes**
+- Added more compatibility recipes to the Crusher.
+- Enabled all disabled Silent Gems ores.
+- In-game tutorials are now silenced.
+- Disabled the un-usable Topaz Ore.
+- Enabled Nether Tin Ore.
+- Enabled Nether Zinc Ore.
+- Some changes in mod updates. 
+
+
+**Fixes**
+- Fixed crashes when right-clicking a Storage Racks controller.
+- Silent Gems ores not generating below Y:0 has been fixed.
+- Fixed Sleeping Bags from @Comforts not being craftable.
+- Fixed recipe conflicts with the Building Wands mod.
+- Crashes tied to AE2 Terminals & Chests are fixed.
+- The XP Block losing its saved XP has been fixed.
+- Fixed some recipe conflicts in the Crusher.
+- Fixed Tin Ore dropping the wrong Raw Tin.
+- Fixed Flint Block recipe conflicts.
+- Fixes in mod updates. 
+
+
+**Updated**
+- **Minecraft** to **1.18.1**
+- Forge from **38.0.17** to **39.0.0**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.3.0 / v0.3.1</h1>
 
 **AE2, Nether Ores, Silent Gear + more!**
