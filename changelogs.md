@@ -1,5 +1,7 @@
 <h1>v0.5.0</h1>
 
+**Refined Storage, New Dungeons, Christmas + More!**
+
 **NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
 
 **Always remember to backup your world(s) before updating!**
