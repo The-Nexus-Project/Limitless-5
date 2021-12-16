@@ -1,3 +1,78 @@
+<h1>v0.5.0</h1>
+
+**NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Awesome Dungeon](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-forge)
+- [Awesome Dungeon Ocean](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-forge)
+- [Christmas Festivity](https://www.curseforge.com/minecraft/mc-mods/christmas-festivity)
+- [Click Machine](https://www.curseforge.com/minecraft/mc-mods/click-machine)
+- [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
+- [Curious Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/curious-shulker-boxes)
+- [Energy Meter](https://www.curseforge.com/minecraft/mc-mods/energymeter)
+- [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+- [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+- [Floral Flai](https://www.curseforge.com/minecraft/mc-mods/floral-flair) (+ [Blueprint Lib](https://www.curseforge.com/minecraft/mc-mods/blueprint))
+- [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) (+ [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)) (+ [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage))
+- [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons)
+- [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+- [Wither Skeleton Tweaks](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)
+
+
+**Removed**
+- [I Know What I'm Doing](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing)
+
+
+**Changes**
+- Better formatted the invalid server message when hovering over the **X** or **✓** in server list.
+- Shulker Boxes can now be worn as a backpack in the Curio Back Slot and opened by with keybind.
+- Adjusted the Silver Furnace texture to match the Silver Block texture.
+- Added Zinc processing compatibility to the Crusher & Grinder.
+- Blacklisted some block GUIs to not include sort buttons.
+- New worldgen structures/dungeons added to worldgen.
+- Some new mobs added to the world.
+- Enabled Zinc & Tin Oreberries.
+- Lowered Trophy droprates.
+- Christmas.
+- Some changes in mod updates. 
+
+
+**Fixes**
+- Experience "disappearing" after switching dimensions is now fixed.
+- Game crashing when looking at a placed trophy has been fixed.
+- Fixed Copper Nugget output in many Create Recipes.
+- Fixed recipe conflicts with Nether Quartz Tools.
+- Fixed a recipe conflict with the Iron Furnace.
+- Fixes in mod updates. 
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- **HUD** becomes **blurry** after opening **Journey Map** fullscreen map. (**Investigating.**)
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.4.0</h1>
 
 **Updated to MC 1.18.1, and because of that some mods were removed!**
