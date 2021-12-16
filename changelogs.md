@@ -56,7 +56,7 @@
 
 
 **Known Issues**
-- **HUD** becomes **blurry** after opening **Journey Map** fullscreen map. (**Investigating.**)
+- **HUD** becomes **blurry** after opening **Journey Map** fullscreen map. (**Issue will be fixed in a future update!**)
 - **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
 
 
