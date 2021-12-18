@@ -13,7 +13,6 @@
 - [Christmas Festivity](https://www.curseforge.com/minecraft/mc-mods/christmas-festivity)
 - [Chromato Creeper](https://www.curseforge.com/minecraft/mc-mods/chromato-creeper)
 - [Click Machine](https://www.curseforge.com/minecraft/mc-mods/click-machine)
-- [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
 - [Curious Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/curious-shulker-boxes)
 - [Energy Meter](https://www.curseforge.com/minecraft/mc-mods/energymeter)
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
