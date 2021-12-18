@@ -32,7 +32,7 @@
 
 **Changes**
 - Better formatted the invalid server message when hovering over the **X** or **✓** in server list.
-- Shulker Boxes can now be worn as a backpack in the Curio Back Slot and opened by with keybind.
+- Shulker Boxes can now be worn as a backpack in the Curio Back Slot and opened with a keybind.
 - Adjusted the Silver Furnace texture to match the Silver Block texture.
 - Added Zinc processing compatibility to the Crusher & Grinder.
 - Blacklisted some block GUIs to not include sort buttons.
