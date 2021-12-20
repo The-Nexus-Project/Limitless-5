@@ -1,3 +1,80 @@
+<h1>v0.6.0</h1>
+
+**Mystical Agriculture, Immersive Engineering, HP Leveling + More!**
+
+**NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- [Creative Crafter](https://www.curseforge.com/minecraft/mc-mods/creative-crafter)
+- [Creative Wireless Transmitter](https://www.curseforge.com/minecraft/mc-mods/creative-wireless-transmitter)
+- [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
+- [DimStorage](https://www.curseforge.com/minecraft/mc-mods/dimstorage)
+- [EnderChests](https://www.curseforge.com/minecraft/mc-mods/enderchests) (+ [ShetiPhianCore](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore))
+- [EnderTanks](https://www.curseforge.com/minecraft/mc-mods/endertanks)
+- [GoProne](https://www.curseforge.com/minecraft/mc-mods/goprone)
+- [IAP [Silent's Gems]](https://www.curseforge.com/minecraft/mc-mods/iap-silents-gems)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [Industrial Agriculture](https://www.curseforge.com/minecraft/mc-mods/industrial-agriculture)
+- [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculturse)
+- [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
+- [Mystical Agriculture Tiered Crystals](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-tiered-crystals)
+- [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
+- [Ranged Wireless Redstone](https://www.curseforge.com/minecraft/mc-mods/ranged-wireless-redstone)
+- [No Recipe Advancements](https://www.curseforge.com/minecraft/mc-mods/no-recipe-advancements)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+- [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+- [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) (+[mutil lib](https://www.curseforge.com/minecraft/mc-mods/mutil))
+- [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge)
+- [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers-forge)
+
+
+**Removed**
+- [Telepads](https://www.curseforge.com/minecraft/mc-mods/telepad)
+- [Vanilla Plus Tools](https://www.curseforge.com/minecraft/mc-mods/vanilla-tools)
+
+
+**Changes**
+- Some **Ores, Ingots & Storage Blocks** have been swapped out for **IE variants**. (**Previous ones can be converted.**)
+- Disabled the **Infernal Mobs** ability: **Blastoff**, **Drowning**, **Webber**, **Sticky** & **Storm**.
+- You can now make **Brass Ingots & Andesite Alloy** in the **Indreb Alloy Smelter**.
+- You can once again **go prone** on **demand**, default key is **C**.
+- You can now eat **food** to increase your **maximum health.**
+- **Blacklisted** more **GUIs** to not include **sort buttons**.
+- **Infernal Mobs** now spawn less **frequently**.
+- Some changes in mod updates. 
+
+
+**Fixes**
+- The **HUD** becoming "**blurry**" after opening **Journey Map** has been fixed. (**HP, Hunger, Armor etc.**)
+- Fixed SilentGear x ElementalCraft errors in chat when joining worlds.
+- Fixes in mod updates. 
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.5.0</h1>
 
 **Refined Storage, New Dungeons, Christmas + More!**
