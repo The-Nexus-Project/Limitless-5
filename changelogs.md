@@ -1,3 +1,78 @@
+<h1>v0.7.0</h1>
+
+**Quark, New Dungeons, Farmer's Delight, New Deco Blocks + More!**
+
+**NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars)
+- [AEInfinityBooster](https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster)
+- [Colossal Chests](https://www.curseforge.com/minecraft/mc-mods/colossal-chests)(+ [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core))
+- [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco)
+- [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+- [Excavation](https://www.curseforge.com/minecraft/mc-mods/excavation)
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
+- [Faster Ladder Climbing](https://www.curseforge.com/minecraft/mc-mods/faster-ladder-climbing)
+- [Hexerei](https://www.curseforge.com/minecraft/mc-mods/hexerei)
+- [Hunter Illager](https://www.curseforge.com/minecraft/mc-mods/hunterillager)
+- [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)
+- [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
+- [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer)
+- [PolyMorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)  (+ [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
+- [Shrink](https://www.curseforge.com/minecraft/mc-mods/shrink_)
+- [Windowlogging](https://www.curseforge.com/minecraft/mc-mods/windowlogging)
+
+
+**Removed**
+- [Double Doors](https://www.curseforge.com/minecraft/mc-mods/double-doors) - (**Now in Quark.**)
+- [Reap Mod](https://www.curseforge.com/minecraft/mc-mods/reap-mod) - (**Now in Quark.**)
+- [Shulker Tooltip](https://www.curseforge.com/minecraft/mc-mods/shulker-tooltip) - (**Now in Quark.**)
+- [Vein Mining](https://www.curseforge.com/minecraft/mc-mods/vein-mining) (**Replaced by Excavation.**)
+
+
+**Changes**
+- **Excavated** blocks will now automatically go into your inventory. (**Drops if inv is full.**)
+- You can now **Excavate** with any item, **no tool required**.
+- Increased maximum amount of **/home's** from 1 to 2.
+- You can now climb ladders faster.
+- Some changes in mod updates. 
+
+
+**Fixes**
+- XP Block not retaining XP when being broken has been fixed.
+- Fixed Night Vision goggles not being craftable or existing.
+- Fixed some nether ores being hidden in JEI.
+- Fixed Tin Nugget not having any use.
+- Fixed tons of recipe conflicts. (**Too many to write**).
+- Fixes in mod updates. 
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.6.0</h1>
 
 **Mystical Agriculture, Immersive Engineering, HP Leveling + More!**
