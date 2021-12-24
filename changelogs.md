@@ -48,9 +48,9 @@
 **Fixes**
 - XP Block not retaining XP when being broken has been fixed.
 - Fixed Night Vision goggles not being craftable or existing.
+- Fixed most if not all of the recipe conflicts. (**Too many to write**).
 - Fixed some nether ores being hidden in JEI.
 - Fixed Tin Nugget not having any use.
-- Fixed tons of recipe conflicts. (**Too many to write**).
 - Fixes in mod updates. 
 
 
