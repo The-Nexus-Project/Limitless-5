@@ -1,5 +1,7 @@
 <h1>v0.7.0</h1>
 
+**Merry Christmas!**
+
 **Quark, New Dungeons, Farmer's Delight, New Deco Blocks + More!**
 
 **NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
