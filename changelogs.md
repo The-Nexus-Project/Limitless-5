@@ -1,3 +1,71 @@
+<h1>v0.8.0</h1>
+
+**New Biomes, New Dimensions, Lots of Magic + More!**
+
+**NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
+- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Curios Quark Oddities Backpack](https://www.curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack)
+- [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
+- [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone)
+- [Mcw's Bridges - BOP](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty)
+- [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+- [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+- [Potion Bundles](https://www.curseforge.com/minecraft/mc-mods/potion-bundles)
+- [Super Circuit Maker](https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker)
+- [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects)
+- [The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge)
+
+
+**Removed**
+- [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)
+
+
+**Changes**
+- The **Blazing** enchantment can now be acquired in the **Enchantment Table**.
+- **Potion effects** in **inventory** now once again render on the **left side**.
+- **Blacklisted** even more **GUIs** to not include **sort buttons**.
+- Increased **Uranium Ore** generation chances.
+- Decreased the Trophy droprate more.
+- Disabled the Disarm Enchantment.
+- Some changes in mod updates. 
+
+
+**Fixes**
+- Fixed Harvester, Disenchanter & Solidification Chamber not being craftable.
+- Fixed a duplication exploit.
+- Fixes in mod updates. 
+
+
+**Updated**
+- **Forge** from version **39.0.5** to **39.0.9**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.7.0</h1>
 
 **Merry Christmas!**
