@@ -2,6 +2,8 @@
 
 **New Biomes, New Dimensions, Lots of Magic + More!**
 
+**NOTE! A new world is highly recommended with this update!**
+
 **NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
 
 **Always remember to backup your world(s) before updating!**
