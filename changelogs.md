@@ -1,3 +1,62 @@
+<h1>v0.9.0</h1>
+
+**Space Exploration, New Creepers?, Chisels & Bits + More!**
+
+**NOTE! IT'S EARLY DAYS FOR FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth)
+- [Beyond Earth: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/space-bosstools-giselle-addon)
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
+- [Crash Utilities](https://www.curseforge.com/minecraft/mc-mods/crash-utilities)
+- [Create Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+- [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul)
+- [DrawerFPS](https://www.curseforge.com/minecraft/mc-mods/drawerfps)
+- [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
+- [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)
+- [KubeJS Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/kubejs-immersive-engineering)
+- [ServerConfig Updater](https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater)
+
+
+**Removed**
+- [Chromato Creeper](https://www.curseforge.com/minecraft/mc-mods/chromato-creeper)
+- [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+
+
+**Changes**
+- Storage Drawers **Item/Block icons** no longer render when you're more than 8 blocks away.
+- Some changes in mod updates. 
+
+
+**Fixes**
+- Fixed **MS & TPS** going up rapidly when generating land in Singleplayer. (**Nature's Aura Issue**.)
+- Fixes in mod updates. 
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.8.1</h1>
 
 **If you're updating from v0.7.0 please read the full 0.8.0 changelog here:** [Click Me](https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v080)!
