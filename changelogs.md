@@ -1,3 +1,60 @@
+<h1>v0.10.0</h1>
+
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines)
+- [Compat O' Plenty](https://www.curseforge.com/minecraft/mc-mods/compat-o-plenty)
+- [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
+- [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
+- [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops)
+- [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)
+- [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+- [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
+- [Tiny Pipes](https://www.curseforge.com/minecraft/mc-mods/tiny-pipes)
+
+
+**Removed**
+- [Excavation](https://www.curseforge.com/minecraft/mc-mods/excavation)
+- [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees)
+
+
+**Changes**
+- Added Bumble Bee Nest to Quark Greener Grass list.
+- Unified a few Sheet recipes in Create.
+- Some changes in mod updates. 
+
+
+**Fixes**
+- Fixed a Mystical Agriculture Essence Dupe.
+- Fixes in mod updates. 
+
+
+**Updated**
+- **Forge** from version **39.0.9** to **39.0.10**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.9.0</h1>
 
 **Space Exploration, New Creepers?, Chisels & Bits + More!**
