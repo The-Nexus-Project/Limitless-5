@@ -1,3 +1,91 @@
+<h1>v0.11.0</h1>
+
+**Quests, Better Chunk Claiming, RF Tools, Chiseling + More!**
+
+> **NOTE! THIS UPDATE IS KIND OF "BREAKING". WORLDS WON'T BREAK. BUT.. ↓**
+
+> **BOP BIOMES WILL NO LONGER GENERATE IN EXISTING WORLDS WITHOUT SOME TINKERING.**
+
+> **Click [HERE](https://gist.github.com/Gbergz/05c520d265e1c01b3fba80a3bc9febaf) for a tutorial on how to let your world continue generating bop biomes.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+- [Bonsai Trees 3](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees)
+- [Chargers](https://www.curseforge.com/minecraft/mc-mods/chargers)
+- [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
+- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
+- [Decorative Winter](https://www.curseforge.com/minecraft/mc-mods/decorative-winter)
+- [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
+- [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) (+ [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge))
+- [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) (+ [FTB Lib](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge))
+- [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
+- [Just Enough Piglin Bartering](https://www.curseforge.com/minecraft/mc-mods/just-enough-piglin-bartering) (+ [Babel](https://www.curseforge.com/minecraft/mc-mods/babel))
+- [Just Zoom](https://www.curseforge.com/minecraft/mc-mods/just-zoom-forge)
+- [Loot Bag Mod](https://www.curseforge.com/minecraft/mc-mods/loot-bag-mod) (**For use in Quest Rewards.**)
+- [Ma Essentials](https://www.curseforge.com/minecraft/mc-mods/maessentials)
+- [Mystical Adaptations](https://www.curseforge.com/minecraft/mc-mods/mystical-adaptations)
+- [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
+- [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base) (+ [McJty Lib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib))
+- [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
+- [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)
+- [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)
+- [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
+- [XNet](https://www.curseforge.com/minecraft/mc-mods/xnet)
+
+
+**Removed**
+- [Curios Quark Oddities Backpack](https://www.curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack)
+- [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) - (**Removed temporarily due to crashes.**)
+- [Thut Essentials](https://www.curseforge.com/minecraft/mc-mods/thut-essentials) - (**Replaced by FTB Chunks & Ma Essentials.**)
+
+
+**Changes**
+- Added **Changelogs**, **Report Issues** & **Discord** buttons to the **In-Game** "Game Menu".
+- Some **Quests** have been added. More will get added over time.
+- Added a conversion recipe for the Beyond Earth **Steel**.
+- Disabled Quark Oddities content due to crashes.
+- You can now zoom in. (**X button by default.**)
+- Some changes in mod updates. 
+
+
+**Fixes**
+- Quark's Item Sharing not displaying **tooltip** or **icon** properly has been fixed.
+- Particles turning dark when picking up items or experience is now fixed.
+- Main Menu having really low fps and slow response times has been fixed.
+- Fixed world flashing sometimes when tps is dipping.
+- Fixes in mod updates. 
+
+
+**Updated**
+- **Forge** from version **39.0.10** to **39.0.14**
+- All mods that could be updated have been updated.
+
+
+**Additional Notes**
+- The latest update added explosions to **Industrial Reborn** when machines are not connected to the proper voltage, be aware that your machines may explode after updating to this version!
+
+
+**Known Issues**
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.10.0</h1>
 
 **NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
