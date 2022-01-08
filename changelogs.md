@@ -30,6 +30,7 @@
 - [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
 - [RFTools Base](https://www.curseforge.com/minecraft/mc-mods/rftools-base) (+ [McJty Lib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib))
 - [RFTools Builder](https://www.curseforge.com/minecraft/mc-mods/rftools-builder)
+- [RFTools Control](https://www.curseforge.com/minecraft/mc-mods/rftools-control)
 - [RFTools Power](https://www.curseforge.com/minecraft/mc-mods/rftools-power)
 - [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)
 - [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
