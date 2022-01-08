@@ -54,7 +54,6 @@
 
 **Fixes**
 - Quark's Item Sharing not displaying **tooltip** or **icon** properly has been fixed.
-- Particles turning dark when picking up items or experience is now fixed.
 - Main Menu having really low fps and slow response times has been fixed.
 - Fixed world flashing sometimes when tps is dipping.
 - Fixes in mod updates. 
@@ -63,6 +62,10 @@
 **Updated**
 - **Forge** from version **39.0.10** to **39.0.14**
 - All mods that could be updated have been updated.
+
+
+**Known Issues**
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
 
 
 **Additional Notes**
