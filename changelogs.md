@@ -69,10 +69,6 @@
 - The latest update added explosions to **Industrial Reborn** when machines are not connected to the proper voltage, be aware that your machines may explode after updating to this version!
 
 
-**Known Issues**
-- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
-
-
 **Reporting Issues**
 - Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
 
