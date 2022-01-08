@@ -15,7 +15,6 @@
 - [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
 - [Bonsai Trees 3](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees)
 - [Chargers](https://www.curseforge.com/minecraft/mc-mods/chargers)
-- [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt)
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)
 - [Decorative Winter](https://www.curseforge.com/minecraft/mc-mods/decorative-winter)
 - [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
