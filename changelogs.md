@@ -1,3 +1,79 @@
+<h1>v0.12.0</h1>
+
+**Blue Skies Dimensions, Farsight + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
+- [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
+- [NoChatLag](https://www.curseforge.com/minecraft/mc-mods/nochatlag)
+- [Nyf's Quivers](https://www.curseforge.com/minecraft/mc-mods/nyfs-quivers) (+ [Expanded](https://www.curseforge.com/minecraft/mc-mods/nyfs-quivers-expanded))
+
+
+**Removed**
+- [Better FPS - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance)
+- [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco) (Temporarily! If you used this mod, maybe wait till' next update.)
+
+
+
+**Changes**
+- Claimed chunks in (**FTB Chunks**) will now be shown on the **Journey Map Minimap**.
+- Chunks can now be claimed straight from inside the Journey Fullscreen Map. (**Button Right Side.**)
+- More **Knifes** can now be used to craft **Template Boards** from **@SilentGear.**
+- Added support for **modded dimensions** in the **Discord Rich Presence** status.
+- **Deepslate Ores** will now be **excavated together** with **Normal Ores**.
+- Zooming out can no longer go into negative values.
+- Disabled **Minimum & Maximum Memory** enforcers.
+- Added more **Saplings** to the **Market**.
+- Some new mobs have been added.
+- New Loot Bag texture color.
+- Some changes in mod updates. 
+
+
+**Fixes**
+- Fixed **Ore Berry Bushes** generating in other dimensions that isn't the overworld.
+- The **game client** freezing when sending a chat message has been **resolved**.
+- **Land** will now properly **appear** and **generate** on the **Chunk Claiming map**.
+- **Particles** become **dark** when picking up **items/exp orbs** has been **fixed**.
+- Fixed **Biomes O' Plenty Signs** recipe conflicts.
+- Fixed a few **recipe conflicts**.
+- Fixes in mod updates. 
+
+
+**Quests**
+- Added a new Chapter: **Artifacts**.
+- Added a new Chapter: **Productive Bees**. (**By LobsterJonn. Thanks!**)
+- That means an additional **154 Quests** have been added.
+
+
+**Updated**
+- **Forge** from version **39.0.14** to **39.0.19**
+- All mods that could be updated have been updated.
+
+
+**Known Issues**
+- **Particles** become **dark** when picking up **items/exp orbs**. (**Forge issue.**)
+
+
+**Additional Notes**
+- The latest update added explosions to **Industrial Reborn** when machines are not connected to the proper voltage, be aware that your machines may explode after updating to this version!
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.11.0</h1>
 
 **Quests, Better Chunk Claiming, RF Tools, Chiseling + More!**
