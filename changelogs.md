@@ -2,6 +2,8 @@
 
 **Blue Skies Dimensions, Farsight + More!**
 
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
 **Always remember to backup your world(s) before updating!**
 
 
