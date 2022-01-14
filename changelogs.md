@@ -1,3 +1,48 @@
+<h1>v0.12.1</h1>
+
+**Hotfix, contains important fixes.**
+
+**Read the full 0.12.0 changelog here: [Click Me](https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v0120).**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added this time.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Quark's Big Dungeon should now no longer generate in wrong dimensions or biomes.
+- Disabled the **@Occultism** Deepslate Silver Ore.
+- Some changes in mod updates. 
+
+
+**Fixes**
+- Crashes when forming an Immersive Engineering Multiblock has been fixed.
+- Plus some other fixes in mod updates. 
+
+
+**Updated**
+- Mods have been updated. Contains a few important fixes.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.12.0</h1>
 
 **Blue Skies Dimensions, Farsight + More!**
