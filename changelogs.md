@@ -18,16 +18,15 @@
 
 
 **Changes**
-- Some changes in mod updates. 
+- No real changes.
 
 
 **Fixes**
 - A crash related to audio being null in various dimensions has been fixed.
-- Plus some other fixes in mod updates. 
 
 
 **Updated**
-- Mods have been updated. Contains a few important fixes.
+- 2 mods updated.
 
 
 **Reporting Issues**
