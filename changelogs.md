@@ -22,6 +22,7 @@
 
 
 **Fixes**
+- An issue with being softlocked / stuck in the respawn screen has been fixed.
 - A crash related to audio being null in various dimensions has been fixed.
 
 
