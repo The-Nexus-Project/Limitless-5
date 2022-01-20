@@ -1,3 +1,75 @@
+<h1>v0.13.0</h1>
+
+**Some New Biomes, Taller Nether Terrain, Enigmatic Legacy, Underground Villages + more!**
+
+**A reset of The Nether is highly recommended with this update. ID: -1, located in the world folder.**
+
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
+- [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring)
+- [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco) (**Re-Added.**)
+- [Ecospherical Expansion](https://www.curseforge.com/minecraft/mc-mods/ecospherical-expansion)
+- [Enigmatic Legacy](https://www.curseforge.com/minecraft/mc-mods/enigmatic-legacy)
+- [Framed Compacting Drawers](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers)
+- [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged) (**Testing!**)
+- [Plonk](https://www.curseforge.com/minecraft/mc-mods/plonk)
+- [Stoneholm, Underground Villages](https://www.curseforge.com/minecraft/mc-mods/stoneholm-forge)
+- [The Conjurer](https://www.curseforge.com/minecraft/mc-mods/the-conjurer)
+
+
+**Removed**
+- [Bonsai Trees 3](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) (**Temporarily.**)
+- [Habitat](https://www.curseforge.com/minecraft/mc-mods/habitat) (**Removed due to crashes, will be re-added.**)
+
+
+**Changes**
+- You can now place **items/blocks** onto walls, ceilings & on the ground. (**Default keybind: P.**)
+- **Storage Drawers** item icons can now be seen a little further away.
+- Added alternative recipes for the **AE2 Processor Presses**.
+- Added a new Jetpack Tier: **Netherite**.
+- Added a new food item: **Baked Apple**.
+- Changes in mod updates.
+
+
+**Fixes**
+- A crash involving Rice planting (**right-click**) has been fixed.
+- Dropped items not merging on servers has been fixed.
+- Fixed **Cloak of Invisibility** not being craftable.
+- Fixed a **duplication exploit** with **Nether Warts**.
+- Fixed **Arcane Relic** not being craftable.
+- Fixes in mod updates. 
+
+
+**Quests**
+- Added a new Chapter: **Iron Jetpacks**.
+- Fixed the AE2 "**1k ME Item Storage Cell**" Quest not having the right task.
+- Disabled Completion Toasts for the **Welcome Chapter**.
+- And some other minor changes, formatting, icons etc.
+
+
+**Updated**
+- **Forge** from version **39.0.19** to **39.0.45**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.12.2</h1>
 
 **Yet another hotfix, needed.**
