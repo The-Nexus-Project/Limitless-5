@@ -33,6 +33,7 @@
 - Added alternative recipes for the **AE2 Processor Presses**.
 - Added a new Jetpack Tier: **Netherite**.
 - Added a new food item: **Baked Apple**.
+- The Hotfix downgraded Forge to version 39.0.44 from (.45).
 - Changes in mod updates.
 
 
@@ -53,7 +54,7 @@
 
 
 **Updated**
-- **Forge** from version **39.0.19** to **39.0.45**
+- **Forge** from version **39.0.19** to **39.0.44**
 - All mods that could be updated have been updated.
 
 
