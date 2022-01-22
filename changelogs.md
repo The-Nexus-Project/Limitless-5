@@ -4,6 +4,8 @@
 
 **A reset of The Nether is highly recommended with this update. ID: -1, located in the world folder.**
 
+**There's a chance your world will get converted to a vanilla world & some dimensions will stop working, follow this link if that's the case:** https://gist.github.com/Gbergz/a63c4ae91dff1174ecca39462c915418 !
+
 **NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
 
 **Always remember to backup your world(s) before updating!**
