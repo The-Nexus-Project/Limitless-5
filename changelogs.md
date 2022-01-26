@@ -1,3 +1,75 @@
+<h1>v0.14.0</h1>
+
+**Integrated Series, Taller End Terrain, Culinary Construct + More!**
+
+**A reset of The End is highly recommended with this update. ID: 1, located in the world folder.**
+
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Builder's Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
+- [Culinary Construct](https://www.curseforge.com/minecraft/mc-mods/culinary-construct)
+- [Dark Paintings](https://www.curseforge.com/minecraft/mc-mods/dark-paintings)
+- [Decorative Compat](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-compat)
+- [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
+- [Habitat](https://www.curseforge.com/minecraft/mc-mods/habitat) (**Re-Added.**)
+- [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting) (+ [Common Capabilities](https://www.curseforge.com/minecraft/mc-mods/common-capabilities))
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)
+- [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
+- [Literal Sky Block](https://www.curseforge.com/minecraft/mc-mods/literal-sky-block)
+- [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape-end-reborn)
+- [Patina PipeWorks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-compat)
+- [Refined Pipes](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
+- [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)
+- [TipTheScales](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added new food items: **Golden Berries**, **Golden Melon Slice**, **Roasted Carrot** & **Grilled Melon Slice**.
+- Added **IE Cloche** support for **Mystical Agriculture**, **Croptopia Seeds** & many other **seeds**.
+- A little **sound** will now play when a **broken tool** has been replaced with a **new** one.
+- **Graphite Ingots** can can now be produced in a **Blast Furnace**.
+- Added **Croptopia Seeds** to the **Market**.
+- And some changes in mod updates.
+
+
+**Fixes**
+- **Rubberbanding** on servers while moving fast & "**moved too fast**" messages in console has been fixed.
+- Not being able to change the "**FindMe**" keybind has been fixed.
+- Fixed a few keybind conflicts.
+- Plus some other fixes not noted in mod updates.
+
+
+**Quests**
+- Added a new Chapter: **Hexerei**. (**By MokahTGS. Thanks!**) - (**WIP Chapter since mod is WIP.**)
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.13.0</h1>
 
 **Some New Biomes, Taller Nether Terrain, Enigmatic Legacy, Underground Villages + more!**
