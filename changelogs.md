@@ -1,6 +1,6 @@
 <h1>v0.14.0</h1>
 
-**Integrated Series, Taller End Terrain, Culinary Construct + More!**
+**Integrated Series, Culinary Construct + More!**
 
 **NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
 
