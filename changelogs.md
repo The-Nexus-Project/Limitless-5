@@ -2,8 +2,6 @@
 
 **Integrated Series, Taller End Terrain, Culinary Construct + More!**
 
-**A reset of The End is highly recommended with this update. ID: 1, located in the world folder.**
-
 **NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
 
 **Always remember to backup your world(s) before updating!**
@@ -21,7 +19,6 @@
 - [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
 - [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
 - [Literal Sky Block](https://www.curseforge.com/minecraft/mc-mods/literal-sky-block)
-- [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape-end-reborn)
 - [Patina PipeWorks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-compat)
 - [Refined Pipes](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
 - [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)
