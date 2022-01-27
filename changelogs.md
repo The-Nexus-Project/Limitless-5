@@ -6,7 +6,7 @@
 
 **Always remember to backup your world(s) before updating!**
 
-**(Note: v0.14.1 removes a mod that accidentally got added and caused issues.)**
+**(Note: v0.14.1 removes a mod that accidentally got added and caused issues.) - (Compatible with 0.14.0)**
 
 
 **Added**
