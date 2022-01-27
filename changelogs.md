@@ -26,7 +26,7 @@
 
 
 **Removed**
-- No mods removed.
+- > [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) - (**Accidentally got added.**) (**v0.14.1**)
 
 
 **Changes**
@@ -42,6 +42,7 @@
 - **Rubberbanding** on servers while moving fast & "**moved too fast**" messages in console has been fixed.
 - Not being able to change the "**FindMe**" keybind has been fixed.
 - Fixed a few keybind conflicts.
+- > Fixed Blue Skies dimensions not working. - (**v0.14.1**)
 - Plus some other fixes not noted in mod updates.
 
 
