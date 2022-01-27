@@ -6,6 +6,8 @@
 
 **Always remember to backup your world(s) before updating!**
 
+**(Note: v0.14.1 removes a mod that accidentally got added and caused issues.)**
+
 
 **Added**
 - [Builder's Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
