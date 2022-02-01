@@ -21,7 +21,7 @@
 - [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
 - [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
 - [Literal Sky Block](https://www.curseforge.com/minecraft/mc-mods/literal-sky-block)
-- [Patina PipeWorks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-compat)
+- [Patina PipeWorks](https://www.curseforge.com/minecraft/mc-mods/patina-pipeworks)
 - [Refined Pipes](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
 - [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)
 - [TipTheScales](https://www.curseforge.com/minecraft/mc-mods/tipthescales)
