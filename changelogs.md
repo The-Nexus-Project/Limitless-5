@@ -1,3 +1,63 @@
+<h1>v0.15.0</h1>
+
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Awesome Dungeon Nether](https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-forge)
+- [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
+- [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend)
+- [Bonsai Trees 3](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees)
+- [Cable Tiers](https://www.curseforge.com/minecraft/mc-mods/cable-tiers)
+- [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced)
+- [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge)
+- [Many Ideas Doors](https://www.curseforge.com/minecraft/mc-mods/many-ideas-doors) (+ [Many Ideas Core](https://www.curseforge.com/minecraft/mc-mods/many-ideas-core)) (+ [Recipe Library](https://www.curseforge.com/minecraft/mc-mods/recipes-library))
+- [MmmMmmMmmMmm (Target Dummy)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
+- [Observable](https://www.curseforge.com/minecraft/mc-mods/observable) (+ [Kotlin](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge))
+
+
+**Removed**
+- [Journey Map Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration) - (**Caused FPS drops on servers with lots of claims**.)
+
+
+**Changes**
+- Replaced **ExtraStorage**'s "**Advanced Importer** & **Exporter**" for **Cable Tiers**'s equivalent.
+- Added **Croptopia Leaves** & **other leaves** to the **Quark Greener Leaves** list.
+- Blacklisted a few **GUIs** to prevent **sort buttons** from showing up.
+- **Rotten Flesh** is now always **edible**.
+- Boss sounds are now localized.
+- Changes in mod updates.
+
+
+**Fixes**
+- Fixed **Potion Effect** timer showing up in basically all **GUIs**.
+- Fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **39.0.44** to **39.0.64**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.14.0</h1>
 
 **Integrated Series, Culinary Construct + More!**
