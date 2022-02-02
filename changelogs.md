@@ -21,6 +21,7 @@
 
 
 **Removed**
+- [Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare)
 - [Journey Map Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration) - (**Caused FPS drops on servers with lots of claims**.)
 
 
