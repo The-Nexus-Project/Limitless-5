@@ -1,3 +1,70 @@
+<h1>v0.16.0</h1>
+
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advanced Generators](https://www.curseforge.com/minecraft/mc-mods/advanced-generators)
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs) (+ [Mcw's Roofs BOP](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty))
+- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) (+ [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)) (+ [Tinkers' Rapier](https://www.curseforge.com/minecraft/mc-mods/tinkers-rapier))
+- [Wormhole (Portals)](https://www.curseforge.com/minecraft/mc-mods/wormhole-portals) (**Re-Added!**)
+
+
+**Removed**
+- [Health Overlay](https://www.curseforge.com/minecraft/mc-mods/health-overlay) - (**Now in Mantle.**)
+- [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge) - (**Available in Tinkers Construct, Silent Gear & Tetra.**)
+- [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers-forge) - (**Available in Tinkers Construct, Silent Gear & Tetra.**)
+
+
+**Changes**
+- Blacklisted lots of **GUIs** to prevent **sort buttons** from showing up.
+- **Filtered** some invalid **items & blocks** from the **Loot Bags**.
+- The **Angel Ring** no longer requires any **experience** to use.
+- **Signs** can now only be edited using an **empty hand**.
+- Added **Menril Sapling** support to **Bonsai Trees**.
+- Added **Menril Sapling** to the **FFB Market.**
+- Added **Rubber** crafting with **Rubber Essence**.
+- Added a new food item: **Baked Glow Berries**.
+- Added a new Combat Item: **Limitless Sword**. (**Used in Welcome Chapter.**)
+- Added a **Rubber Seed** crafting recipe.
+- New **Main Menu** background.
+- Plus some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Compressed Steel** from **Beyond Earth** not being **craftable**.
+- Fixed not being able to place **Signs** onto other **Signs**.
+- A **floating** broken **particle effect** has been resolved.
+- Fixed recipe conflict with: **Iron Fence**.
+- And some fixed in mod updates.
+
+
+**Quests**
+- Added a new Chapter: **Apotheosis**.
+- Added a new Chapter: **Repurposed Structures**.
+- Made a few changes to the **Welcome Chapter**.
+- Plus other minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.15.0</h1>
 
 **More Dungeons, Bonsai Trees + More!**
