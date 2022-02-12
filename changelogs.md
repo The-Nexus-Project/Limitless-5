@@ -1,3 +1,56 @@
+<h1>v0.17.0</h1>
+
+**Deep Resonance, Fixes + More!**
+
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
+- [Deep Resonance](https://www.curseforge.com/minecraft/mc-mods/deep-resonance)
+- [Morph-o-Tool](https://www.curseforge.com/minecraft/mc-mods/morph-o-tool)
+- [Solar Flux Reborn](https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Increased the time it takes for a player to **Timeout**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- **Viewmodel** going through blocks when **Light Level Overlay** is active has been **resolved**.
+- **Crashes** tied to the **Kangaroo** & **Mimicube Mob** has been **fixed**.
+- Plus some fixed in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **39.0.64** to **39.0.75**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.16.0</h1>
 
 **Tinkers Construct, Advanced Generators + More!**
