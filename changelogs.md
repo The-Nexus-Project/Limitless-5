@@ -1,3 +1,51 @@
+<h1>v0.17.1</h1>
+
+**Fixes mostly, recommended to update.**
+
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Structures' Compass](https://www.curseforge.com/minecraft/mc-mods/structures-compass)
+
+
+**Removed**
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass)
+- [No Recipe Advancements](https://www.curseforge.com/minecraft/mc-mods/no-recipe-advancements)
+
+
+**Changes**
+- Some changes in mod updates.
+
+
+**Fixes**
+- Potential **lag** tied to the **Feeding Through Module** has been **fixed**.
+- Some fixed in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- Updated **2** mods.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.17.0</h1>
 
 **Deep Resonance, Fixes + More!**
