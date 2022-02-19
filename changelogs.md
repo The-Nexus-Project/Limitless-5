@@ -19,10 +19,10 @@
 
 **Changes**
 - The **'@CFB Sink'** now provides **Infinite Water** again.
-- Filtered out some items from the Loot Bag table.
+- **Filtered** out some items from the **Loot Bag** table.
 - Added many new **Ore & Ingot** processing recipes.
 - A huge rework of the **Stronghold** structure.
-- Restored the normal **Creeper Model*.
+- Restored the normal **Creeper Model**.
 - Removed the **temporary recipes**.
 - Some changes in mod updates.
 
