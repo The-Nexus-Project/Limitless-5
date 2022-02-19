@@ -1,3 +1,67 @@
+<h1>v0.18.0</h1>
+
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Elemental - Elemental Spell Foci](https://www.curseforge.com/minecraft/mc-mods/ars-elemental-elemental-spell-foci)
+- [Crafting on a Stick](https://www.curseforge.com/minecraft/mc-mods/crafting-on-a-stick)
+- [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)
+- [No Recipe Advancements](https://www.curseforge.com/minecraft/mc-mods/no-recipe-advancements) (**Re-Added.**)
+- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+
+
+**Removed**
+- [Creeper Confetti](https://www.curseforge.com/minecraft/mc-mods/creeper-confetti)
+
+
+**Changes**
+- The **'@CFB Sink'** now provides **Infinite Water** again.
+- Filtered out some items from the Loot Bag table.
+- Added many new **Ore & Ingot** processing recipes.
+- A huge rework of the **Stronghold** structure.
+- Restored the normal **Creeper Model*.
+- Removed the **temporary recipes**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Hopefully resolved an issue where servers were **lag-spiking** when a **new player** joins.
+- **Mining & Void Dimension** giving error "**Invalid world ID set**" is now **fixed**.
+- Solar Panels not being craftable has been fixed.
+- **JEI** not showing **recipes** correctly is **resolved**.
+- Fixed lang file for the **Structures' Compass**.
+- **Compatibility** with **OptiFine** has been fixed. (**For now, till' it breaks again..**)
+- Fixed some **Create** ore processing recipes.
+- Fixed **Copper Bar** recipes.
+- Some fixed in mod updates.
+
+
+**Quests**
+- Added a new Chapter: **Solar Flux Reborn**.
+- Added a missing quest to the **Apotheosis** chapter.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.17.1</h1>
 
 **Fixes mostly, recommended to update.**
