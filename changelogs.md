@@ -1,3 +1,63 @@
+<h1>v0.19.0</h1>
+
+**Botania, Better Dungeons + More!**
+
+**NOTE! IT'S EARLY DAYS FOR MODS ON FORGE 1.18! POTENTIAL MAJOR- BREAKING UPDATES COULD HAPPEN!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Art of Forging](https://www.curseforge.com/minecraft/texture-packs/art-of-forging-a-tetra-datapack) - (**Tetra Addon, Data & Resource Pack**.)
+- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) (+ [MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany) & [AIOT Botania](https://www.curseforge.com/minecraft/mc-mods/aiot-botania))
+- [Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
+- [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **Ore Processing** compat to some **Ores** that didn't have it.
+- **Bees** are no longer affected by **Ring of the Seven Curses**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Corail Tombstone** enchantments not being able to go over **5**.
+- **Dungeon Structures** overlapping eachother "should" now be **solved**.
+- A **crash** when mining a **Cyclic Battery Block** has been **fixed**.
+- Fixed a **Shulker Shell** dupe with **Hammers**.
+- Some fixed in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **39.0.75** to **39.0.88**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 39.0.88
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.18.0</h1>
 
 **Better Stronghold, Malum, Blocks on Sticks? + More!**
