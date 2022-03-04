@@ -1,3 +1,55 @@
+<h1>v1.0.0</h1>
+
+**Ready Release. Automatic Backups, Fixes + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Simple Backups](https://www.curseforge.com/minecraft/mc-mods/simple-backups)
+
+
+**Removed**
+- [Refined Pipes](https://www.curseforge.com/minecraft/mc-mods/refined-pipes) - (**Removed due to excessive lag.**)
+
+
+**Changes**
+- Backups of the **worlds** are now created once every **2 hours**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- **Crashes** tied to **Deep Resonance** blocks has been **fixed**.
+- Fixed **TiC Guide Books** being **hidden** in **JEI**.
+- Some fixed in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **39.0.88** to **39.1.2**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 39.1.2
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v0.19.0</h1>
 
 **Botania, Better Dungeons + More!**
