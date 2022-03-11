@@ -1,3 +1,57 @@
+<h1>v1.1.0</h1>
+
+**PneumaticCraft, New Worldgen Structures + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [BrassAmber BattleTowers](https://www.curseforge.com/minecraft/mc-mods/brassamberbattletowers)
+- [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+- [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+- [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed "**Player is now AFK**" being triggered and kicking players.
+- Some fixed in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 39.1.2
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.0.0</h1>
 
 **Ready Release. Automatic Backups, Fixes + More!**
