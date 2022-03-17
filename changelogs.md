@@ -1,5 +1,7 @@
 <h1>v1.2.0</h1>
 
+**New Quests, Fixes + More!**
+
 **NOTE! Homes and Warps will be reset this update, back up your coordinates! <br />
 This update is "breaking" to existing worlds and will cause ugly chunk borders, and also cause some dimensions to become unavailable. Be aware!
 <br />Follow this guide [HERE (Click me)](https://gist.github.com/Gbergz/74f31ee5d17034eaf43ebad1566a0845) to fix certain dimensions becoming unavailable/unregistered.** <br /> (**Forge/MC bug when biomes gets deleted.**)
