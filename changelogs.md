@@ -1,3 +1,68 @@
+<h1>v1.2.0</h1>
+
+**NOTE! Homes and Warps will be reset this update, back up your coordinates! <br />
+This update is "breaking" to existing worlds and will cause ugly chunk borders, and also cause some dimensions to become unavailable. Be aware!
+<br />Follow this guide [HERE (Click me)](https://gist.github.com/Gbergz/74f31ee5d17034eaf43ebad1566a0845) to fix certain dimensions becoming unavailable/unregistered.** <br /> (**Forge/MC bug when biomes gets deleted.**)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [FTB Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge)
+- [FTB Ranks](https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge)
+- [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
+- [Out Of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) - (**Testing.**)
+- [Pane In The Glass](https://www.curseforge.com/minecraft/mc-mods/pane-in-the-glass)
+
+
+**Removed**
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) - (**Not functional, will be re-added.**)
+- [Ma Essentials](https://www.curseforge.com/minecraft/mc-mods/maessentials) - (**Replaced by FTB Essentals.**)
+- [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation) - (**Replaced by FTB Ultimine.**)
+
+
+**Changes**
+- A maximum of **128 blocks** can now be **excavated** at once. (**64 -> 128.**)
+- Blacklisted **GUIs** to prevent **sort buttons** from showing up.
+- Reduced **spawnrate** of **Oil Lakes** from **@PneumaticCraft**.
+- Tweaked the **Loot Tables** of **Battle Towers**.
+- Formatted ingame chat a bit.
+- Some changes in mod updates.
+
+
+**Fixes**
+- A pretty common **crash** while exploring **The End** has been **fixed**.
+- Crash summoning the **Land Golem** has been fixed.
+- **Battle Towers** having no **loot** has been fixed.
+- Additional fixes in mod updates.
+
+
+**Quests**
+- Added a new Chapter: **Botania**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 39.1.2
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.1.0</h1>
 
 **PneumaticCraft, New Worldgen Structures + More!**
