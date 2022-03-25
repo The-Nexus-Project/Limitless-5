@@ -1,3 +1,61 @@
+<h1>v1.3.0</h1>
+
+**Buddycards, Diet, Builder's Delight + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
+- [Buddycards](https://www.curseforge.com/minecraft/mc-mods/buddycards)
+- [Builder's Delight](https://www.curseforge.com/minecraft/mc-mods/builders-delight-forge)
+- [Diet](https://www.curseforge.com/minecraft/mc-mods/diet) - (**Better Diet = Positive Effects.**)
+- [Updated Engineering](https://www.curseforge.com/minecraft/texture-packs/updated-engineering) - (**Resource Pack.**)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- You can now **optionally** have a better **Diet** to gain **positive effects**, no **negatives**.
+- Added more **variety** in the **loot table** for **Infernal Mob** bosses.
+- **Mob Spawners** are now **harder** to **break**.
+- New **Textures** for **Lootr Chests**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- A **crash** when typing into the "**Mod Configs**" search bar has been **fixed**.
+- A **crash** when looking at a **4 high book pile** has been **fixed**.
+- Fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 39.1.2
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.2.0</h1>
 
 **New Quests, Fixes + More!**
