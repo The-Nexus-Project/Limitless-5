@@ -1,3 +1,59 @@
+<h1>v1.4.0</h1>
+
+**Mod Updates, Fixes + 1 Mod Addition.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)
+
+
+**Removed**
+- PneumaticCraft: Repressurized - (**Will be re-added in 1.18.2!**)
+
+
+**Changes**
+- Added **Coins**, for use in a future **Market Questline**.
+- Reverted **Lootr texture changes**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed not being able to **reconnect** to a **server** after **disconnecting**. (**Timing out.**)
+- Fixed **Vanilla Trapped Chest** not being **craftable**.
+- Fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Downgraded**
+- Downgraded Forge to version 39.0.88 due to some issues.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 39.0.88
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.3.0</h1>
 
 **Buddycards, Diet, Builder's Delight + More!**
