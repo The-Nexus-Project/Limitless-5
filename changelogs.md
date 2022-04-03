@@ -10,7 +10,7 @@
 
 
 **Removed**
-- PneumaticCraft: Repressurized - (**Will be re-added in 1.18.2!**)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized) - (**Will be re-added in 1.18.2!**)
 
 
 **Changes**
