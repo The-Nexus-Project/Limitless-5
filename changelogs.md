@@ -120,6 +120,8 @@
 
 
 **Fixes**
+- Fixed an issue leading to **disconnects** upon trying to connect to a server. - (**v2.0.1**)
+- Fixed wrong **Steel Dust** item being used in the **Mekanism** Chapter. - (**v2.0.1**)
 - Too many fixes to keep track.
 
 
