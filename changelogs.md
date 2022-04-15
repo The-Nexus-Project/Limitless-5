@@ -128,6 +128,7 @@
 - Added a new Chapter: **Mekanism**.
 - Added a new Chapter: **Nature's Aura**. (**By: haunted**.)
 - Added a new Chapter: **Reliquary**.
+- Adjusted the **Rewards** for some of the **Quests** available.
 - Plus some other minor changes.
 
 
