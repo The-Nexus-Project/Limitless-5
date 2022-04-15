@@ -1,3 +1,159 @@
+<h1>v2.0.0</h1>
+
+**The 1.18.2 Update. Many additions, changes & removed mods!**
+
+**WARNING! THIS UPDATE IS NOT COMPATIBLE WITH PACK VERSION 1.4.0 AND BELOW!** <br />
+**Therefore a fresh install and a new world is highly recommended!**
+
+**Note: Most of the mods removed will most likely be re-added at some point if / when they're updated.**
+
+**Also keep in mind there might be some stability issues, if you encounter any report it [[HERE (click me)](https://github.com/The-Nexus-Project/Limitless-5/issues)] !**
+
+
+**Added**
+- [Blaze Gear](https://www.curseforge.com/minecraft/mc-mods/blaze-gear)
+- [Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)
+- [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)
+- [Dimensional Cake Rebaked](https://www.curseforge.com/minecraft/mc-mods/dimensional-cake-rebuilt)
+- [Dimensional Dungeons](https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons)
+- [Everything is Copper](https://www.curseforge.com/minecraft/mc-mods/everythingcopper)
+- [Friends & Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)
+- [Guns Without Roses](https://www.curseforge.com/minecraft/mc-mods/guns-without-roses)
+- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+- [Health Overlay](https://www.curseforge.com/minecraft/mc-mods/health-overlay)
+- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas)
+- [JER Integration](https://www.curseforge.com/minecraft/mc-mods/jer-integration)
+- [Loot Integrations](https://www.curseforge.com/minecraft/mc-mods/loot-integrations)
+- [Luggage](https://www.curseforge.com/minecraft/mc-mods/luggage)
+- [Macaw's Bridges - BYG](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-oh-the-biomes-youll-go)
+- [Macaw's Fences - BOP](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-biomes-o-plenty)
+- [Macaw's Roofs - BYG](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-oh-the-biomes-youll-go)
+- [Magical Forest](https://www.curseforge.com/minecraft/mc-mods/magical-forest)
+- [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
+- [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
+- [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
+- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+- [More Mekanism Processing](https://www.curseforge.com/minecraft/mc-mods/more-mekanism-processing)
+- [More Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/more-storage-drawers)
+- [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books)
+- [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
+- [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
+- [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized)
+- [Pocket Storage](https://www.curseforge.com/minecraft/mc-mods/pocket-storage)
+- [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
+- [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3)
+- [RSInfinityBooster](https://www.curseforge.com/minecraft/mc-mods/rsinfinitybooster)
+- [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)
+- [Universal Enchants](https://www.curseforge.com/minecraft/mc-mods/universal-enchants-forge)
+- [Upgraded Core](https://www.curseforge.com/minecraft/mc-mods/upgraded-core)
+- [Upgraded Netherite](https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite)
+- [Vanilla Expanded - Orcz](https://www.curseforge.com/minecraft/mc-mods/orcz)
+- [Wandering Trapper](https://www.curseforge.com/minecraft/mc-mods/wandering-trapper)
+- [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
+
+
+**Removed**
+- ['Dustrial Decor](https://www.curseforge.com/minecraft/mc-mods/dustrial-decor)
+- [AEInfinityBooster](https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster)
+- [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental-elemental-spell-foci)
+- [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon)
+- [Babel](https://www.curseforge.com/minecraft/mc-mods/babel)
+- [Better Azalea](https://www.curseforge.com/minecraft/mc-mods/better-azalea)
+- [Blueprint](https://www.curseforge.com/minecraft/mc-mods/blueprint)
+- [BrassAmber BattleTowers](https://www.curseforge.com/minecraft/mc-mods/brassamberbattletowers)
+- [Cable Tiers](https://www.curseforge.com/minecraft/mc-mods/cable-tiers)
+- [ChocoCraft](https://www.curseforge.com/minecraft/mc-mods/chococraft)
+- [Christmas Festivity](https://www.curseforge.com/minecraft/mc-mods/christmas-festivity)
+- [Colossal Chests](https://www.curseforge.com/minecraft/mc-mods/colossal-chests)
+- [Common Capabilities](https://www.curseforge.com/minecraft/mc-mods/common-capabilities)
+- [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines)
+- [Compat O' Plenty](https://www.curseforge.com/minecraft/mc-mods/compat-o-plenty)
+- [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+- [Corail Adventurer](https://www.curseforge.com/minecraft/mc-mods/corail-adventurer)
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+- [Crafting on a stick](https://www.curseforge.com/minecraft/mc-mods/crafting-on-a-stick)
+- [Creative Wireless Transmitter](https://www.curseforge.com/minecraft/mc-mods/creative-wireless-transmitter)
+- [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)
+- [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced)
+- [Ecospherical Expansion](https://www.curseforge.com/minecraft/mc-mods/ecospherical-expansion)
+- [Faster Ladder Climbing](https://www.curseforge.com/minecraft/mc-mods/faster-ladder-climbing)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+- [Floral Flair](https://www.curseforge.com/minecraft/mc-mods/floral-flair)
+- [Gems and Crystals](https://www.curseforge.com/minecraft/mc-mods/gems-and-crystals)
+- [Habitat](https://www.curseforge.com/minecraft/mc-mods/habitat)
+- [Hexerei](https://www.curseforge.com/minecraft/mc-mods/hexerei)
+- [IAP [Silent's Gems]](https://www.curseforge.com/minecraft/mc-mods/iap-silents-gems)
+- [Industrial Agriculture](https://www.curseforge.com/minecraft/mc-mods/industrial-agriculture)
+- [Industrial Reborn](https://www.curseforge.com/minecraft/mc-mods/industrial-reborn)
+- [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting)
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)
+- [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
+- [Just Enough Piglin Bartering](https://www.curseforge.com/minecraft/mc-mods/just-enough-piglin-bartering)
+- [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
+- [Literal Sky Block](https://www.curseforge.com/minecraft/mc-mods/literal-sky-block)
+- [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)
+- [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle)
+- [MUtil](https://www.curseforge.com/minecraft/mc-mods/mutil)
+- [No Recipe Advancements](https://www.curseforge.com/minecraft/mc-mods/no-recipe-advancements)
+- [Nyf's Quivers Expanded](https://www.curseforge.com/minecraft/mc-mods/nyfs-quivers-expanded)
+- [OAuth](https://www.curseforge.com/minecraft/mc-mods/oauth)
+- [Pane In The Glass](https://www.curseforge.com/minecraft/mc-mods/pane-in-the-glass)
+- [Patina Pipeworks](https://www.curseforge.com/minecraft/mc-mods/patina-pipeworks)
+- [Restored Earth](https://www.curseforge.com/minecraft/mc-mods/restored-earth)
+- [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems)
+- [Soaring Structures 2](https://www.curseforge.com/minecraft/mc-mods/soaring-structures-2)
+- [Stoneholm](https://www.curseforge.com/minecraft/mc-mods/stoneholm-forge)
+- [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)
+- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+- [Tinkers' Rapier](https://www.curseforge.com/minecraft/mc-mods/tinkers-rapier)
+- [Vanilla Degus](https://www.curseforge.com/minecraft/mc-mods/vanilla-degus)
+- [Windowlogging](https://www.curseforge.com/minecraft/mc-mods/windowlogging)
+- [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+- [YUNG's Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+- [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+- [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+
+
+**Changes**
+- There are lots of other changes, but too many to keep track.
+
+
+**Fixes**
+- Too many fixes to keep track.
+
+
+**Quests**
+- Added a new Chapter: **Ars Nouveau**. (**By: haunted**.)
+- Added a new Chapter: **Mekanism**.
+- Added a new Chapter: **Nature's Aura**. (**By: haunted**.)
+- Added a new Chapter: **Reliquary**.
+- Plus some other minor changes.
+
+
+**Updated**
+- Updated to **Minecraft 1.18.2**.
+- **Forge** from version **39.0.88** to **40.0.52**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.0.52
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v1.4.0</h1>
 
 **Mod Updates, Fixes + 1 Mod Addition.**
