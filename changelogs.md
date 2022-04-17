@@ -1,3 +1,68 @@
+<h1>v2.1.0</h1>
+
+**Continuation of the 1.18.2 update. Fixes, mod additions + more!**
+
+**WARNING! THIS UPDATE IS NOT COMPATIBLE WITH PACK VERSION 1.4.0 AND BELOW!** <br />
+**Therefore a fresh install and a new world is highly recommended if you're coming from that update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental-elemental-spell-foci)
+- [Creative Crafter](https://www.curseforge.com/minecraft/mc-mods/creative-crafter)
+- [FastSuite](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+- [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+- [Skinned Lanterns](https://www.curseforge.com/minecraft/mc-mods/skinned-lanterns)
+
+
+**Removed**
+- [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies) - (**Caused Dimension unregister issues.**)
+- [Infernal Mobs](https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs)
+- [Tiny Skeletons](https://www.curseforge.com/minecraft/mc-mods/tiny-skeletons-forge)
+
+
+**Changes**
+- Made it so **BYG & BOP Planks** + **Wood/Logs** can be used to craft **Chests**.
+- **World Backups** are now created **every hour** instead every **two**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Dimensions** being **unregistered** after **re-entering a world** or after a **restart**.
+- Sudden **Biome Changes** & **World Walls/Borders** has **hopefully** been **fixed*.
+- Fixed **Cyclic - Crushing Macerator** not being **craftable**.
+- A **crash** related to **Amethyst Arrows** has been **fixed**.
+- Fixed **Oreberries** being smelted into "**empty tags**".
+- Plus more fixes in mod updates.
+
+
+**Quests**
+- Fixed a few invalid **Quest Rewards** in some **Chapters**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.0.52
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.0.0</h1>
 
 **The 1.18.2 Update. Many additions, changes & removed mods!**
