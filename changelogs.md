@@ -29,7 +29,6 @@
 
 
 **Fixes**
-- Fixed **Dimensions** being **unregistered** after **re-entering a world** or after a **restart**.
 - Sudden **Biome Changes** & **World Walls/Borders** has **hopefully** been **fixed*.
 - Fixed **Cyclic - Crushing Macerator** not being **craftable**.
 - A **crash** related to **Amethyst Arrows** has been **fixed**.
