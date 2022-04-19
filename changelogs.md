@@ -29,7 +29,7 @@
 
 **Fixes**
 - Fixed **Immersive Engineering** not being **functional** at all by **downgrading** the mod.
-- Fixed the "**whistling**" when activating **Excavate/Ultimine**. (**Changed default keybind.**)
+- Fixed the "**whistling**" when activating **Excavate/Ultimine**. (**Changed Luggage default keybind.**)
 - Fixed not being able to **customize waypoints**.
 - Fixed **Apotheosis - Boon Drops**.
 - Some fixes in mod updates.
