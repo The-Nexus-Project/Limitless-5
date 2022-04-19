@@ -1,3 +1,67 @@
+<h1>v2.2.0</h1>
+
+**Another continuation of the 1.18.2 update. More Fixes, mod additions & more!**
+
+**WARNING! THIS UPDATE IS NOT COMPATIBLE WITH PACK VERSION 1.4.0 AND BELOW!** <br />
+**Therefore a fresh install and a new world is highly recommended if you're coming from that update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Advanced Hook Launchers](https://www.curseforge.com/minecraft/mc-mods/advanced-hook-launchers)
+- [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines)
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+- [RFTools Dimensions](https://www.curseforge.com/minecraft/mc-mods/rftools-dimensions)
+
+
+**Removed**
+- [Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+- [Debugify](https://www.curseforge.com/minecraft/mc-mods/storage-cabinet)
+- [Storage Cabinet](https://www.curseforge.com/minecraft/mc-mods/storage-cabinet)
+
+
+**Changes**
+- Disabled spawning for the **Mage** from **Ars Elemental**.
+- Added **Create** pressing recipes for **IE Plates**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Immersive Engineering** not being **functional** at all by **downgrading** the mod.
+- Fixed the "**whistling**" when activating **Excavate/Ultimine**. (**Changed default keybind.**)
+- Fixed not being able to **customize waypoints**.
+- Fixed **Apotheosis - Boon Drops**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Fixed a few more invalid **Quest Rewards** in some **Chapters**.
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **40.0.52** to **40.1.0**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.1.0</h1>
 
 **Continuation of the 1.18.2 update. Fixes, mod additions + more!**
