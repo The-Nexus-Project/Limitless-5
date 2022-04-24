@@ -1,3 +1,67 @@
+<h1>v2.3.0</h1>
+
+**Blue Skies, Malum, Mod Updates, Fixes + More!**
+
+**WARNING! THIS UPDATE IS NOT COMPATIBLE WITH PACK VERSION 1.4.0 AND BELOW!** <br />
+**Therefore a fresh install and a new world is highly recommended if you're coming from that update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics)
+- [Blue Skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
+- [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
+- [Furnace Mk2](https://www.curseforge.com/minecraft/mc-mods/furnace-mk2)
+- [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)
+- [No Recipe Advancements](https://www.curseforge.com/minecraft/mc-mods/no-recipe-advancements)
+- [Restored Earth](https://www.curseforge.com/minecraft/mc-mods/restored-earth)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **@Create Crushed Ore** support for **Azure Silver**, **Crimson Iron**, **Iesnium**, **Osmium**, **Horizonite**, **Ventium**, **Falsite**, **Charoite** & **Aquite**, **Pyrope**, **Diopside** & **Moonstone**.
+- Disabled **FTB Chunks forceload (chunk load)** as it could be causing **unintended issues**, and currently **doesn't work anyways**. - (**Replaced by the Chunk Loaders mod**.)
+- **Structure Compatibility** between some **mods** have been **improved**.
+- Added some more **Ore Processing** compat.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Copper Armor & Tools** outputting the wrong **type** of **nugget** when **smelted**.
+- The **Ring of Growth** causing **crashes/internal errors** has been **fixed**.
+- Fixed **@Cyclic** recipes using the **wrong type** of **copper tools**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.2.0</h1>
 
 **Another continuation of the 1.18.2 update. More Fixes, mod additions & more!**
