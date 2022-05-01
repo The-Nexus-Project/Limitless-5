@@ -1,3 +1,91 @@
+<h1>v2.4.0</h1>
+
+**Integrated Series, Cooking for Blockheads, Hexerei + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Additional Bars - BOP](https://www.curseforge.com/minecraft/mc-mods/additional-bars-biomes-o-plenty-addon)
+- [Additional Structures](https://www.curseforge.com/minecraft/mc-mods/additional-structures)
+- [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge)
+- [AEInfinityBooster](https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster)
+- [Applied Botanics](https://www.curseforge.com/minecraft/mc-mods/applied-botanics-addon)
+- [Armor Points](https://www.curseforge.com/minecraft/mc-mods/armorpoints)
+- [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+- [Colossal Chests](https://www.curseforge.com/minecraft/mc-mods/colossal-chests)
+- [Flopper](https://www.curseforge.com/minecraft/mc-mods/flopper)
+- [Hexerei](https://www.curseforge.com/minecraft/mc-mods/hexerei)
+- [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting)
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)
+- [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels)
+- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
+- [Little Logistics](https://www.curseforge.com/minecraft/mc-mods/little-logistics) (+ [Little Contraptions](https://www.curseforge.com/minecraft/mc-mods/little-contraptions))
+
+
+**Removed**
+- [Health Overlay](https://www.curseforge.com/minecraft/mc-mods/health-overlay)
+- [Restored Earth](https://www.curseforge.com/minecraft/mc-mods/restored-earth) - (**Issues.**)
+
+
+**Changes**
+- Removed the **recipes** for **Floating Flowers** due to **crashing issues** when **placed**.
+- Added **Create Brass** to **Alloy Kiln & Arc Furnace** + **Metallurgic Infuser**.
+- Added some **Ore Processing Compat** to **Brilliant Ore** & **Soulstone Ore**.
+- **Structure Compatibility** between some **mods** have been **improved** again.
+- Disabled **Automatic Waypoint** creation for newly **Activated Waystones**.
+- A **Nether Layer** deep in the **Dungeon Crawl** dungeons have been **added**.
+- **Armor Toughness** & **Armor Bars** above **20** is now **properly displayed**.
+- Added **22 new** Salvage recipes to the **Silent Gear Salvager**.
+- **Soul Sand** can now be used to summon **The Wither** again.
+- Added **Cloche** support for **Limestone & Menril** Seeds.
+- **Refined Storage** recipes can now use any **Silicon**.
+- Added more **Curios Slots** for various items.
+- Disabled **Leafcutter Anthills**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Crashes when Fortune is applied Golderite Tools from Upgrade Netherite has been fixed.
+- "Fixed" Mobs from Restored Earth spawning everywhere, anywhere.
+- Fixed not being able to craft Bronze with MA Bronze Essence.
+- A server performance issue has been resolved.
+- Fixed Malum Copper nugget recipe conflict.
+- Fixed Copper Bars & Door recipe conflicts.
+- A Chunky Turtle crash has been fixed.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Added an **Optional (free claim) Quest** for **Ring of the Seven Curses**.
+- Added **8 new quests** to the *AE2 Chapter*.
+- Fixed a **Missing Quest** icon.
+- Fixed a few **typos**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.3.0</h1>
 
 **Blue Skies, Malum, Mod Updates, Fixes + More!**
