@@ -60,6 +60,7 @@
 **Quests**
 - Added an **Optional (free claim) Quest** for **Ring of the Seven Curses**.
 - Added **8 new quests** to the *AE2 Chapter*.
+- Added a new Chapter: **Hexerei**
 - Fixed a **Missing Quest** icon.
 - Fixed a few **typos**.
 - Minor changes.
