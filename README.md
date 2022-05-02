@@ -1,5 +1,5 @@
 # Limitless 5
-Limitless 5 modpack maintained and developed by Gbergz - *Operating on Minecraft 1.18!*
+Limitless 5 modpack maintained and developed by Gbergz - *Operating on Minecraft 1.18.2!*
 
 **CurseForge Page:** https://www.curseforge.com/minecraft/modpacks/tnp-limitless-5
 
