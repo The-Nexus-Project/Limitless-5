@@ -25,6 +25,7 @@
 
 
 **Fixes**
+- Fixed an **issue** with **items** not **stacking properly**, and not being able to **transfer items** to **Crafting Table GUIs**. (**v2.5.1**)
 - An **issue** with **getting stuck** on a "**white screen**" while **booting up** the **pack** has been **fixed**.
 - Fixed **Recipe Conflicts** with **IE Hammer** upon trying to craft **Plates**.
 - **Fixed** not being able to craft **chests** with **Hexerei Logs, Planks**.
