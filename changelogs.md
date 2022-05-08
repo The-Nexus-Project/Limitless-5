@@ -1,3 +1,63 @@
+<h1>v2.5.0</h1>
+
+**Crossroads, Silent's Gems, YUNG's Mods + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Crossroads MC](https://www.curseforge.com/minecraft/mc-mods/crossroads-mc)
+- [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+- [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+- [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/)
+- [YUNG'S Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
+- [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems) (+ [IAP Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/iap-silents-gems))
+- [Verdure](https://www.curseforge.com/minecraft/mc-mods/verdure)
+
+
+**Removed**
+- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - (**Why was this here?**)
+
+
+**Changes**
+- Lowered the **Ender Dragon Death volume** by **more than half** to save **people's ears**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- An **issue** with **getting stuck** on a "**white screen**" while **booting up** the **pack** has been **fixed**.
+- Fixed **Recipe Conflicts** with **IE Hammer** upon trying to craft **Plates**.
+- **Fixed** not being able to craft **chests** with **Hexerei Logs, Planks**.
+- A **Hexerei** crash related to "**double plants**" has been **fixed**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.0** to **40.1.19**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.19
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.4.0</h1>
 
 **Integrated Series, Cooking for Blockheads, Hexerei + More!**
