@@ -12,7 +12,7 @@
 - [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge/)
 - [YUNG'S Better Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
 - [Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/silents-gems) (+ [IAP Silent's Gems](https://www.curseforge.com/minecraft/mc-mods/iap-silents-gems))
-- [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) - (**v2.5.2**)
+- [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) (+ [Materialis](https://www.curseforge.com/minecraft/mc-mods/materialis)) - (**v2.5.2**)
 - [Verdure](https://www.curseforge.com/minecraft/mc-mods/verdure)
 
 
