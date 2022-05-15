@@ -1,6 +1,6 @@
 <h1>v2.6.0</h1>
 
-**The Undergarden, Kobolds?, Fixes, Ore Compat + More!**
+**Thermal Series, The Undergarden, Kobolds?, Fixes, Ore Compat + More!**
 
 **Always remember to backup your world(s) before updating!**
 
