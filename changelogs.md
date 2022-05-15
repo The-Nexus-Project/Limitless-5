@@ -1,3 +1,70 @@
+<h1>v2.6.0</h1>
+
+**The Undergarden, Kobolds?, Fixes, Ore Compat + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
+- [Kobolds!](https://www.curseforge.com/minecraft/mc-mods/kobolds)
+- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
+- [Thermal Extra](https://www.curseforge.com/minecraft/mc-mods/thermal_extra)
+- [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
+- [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation) (+ [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/3790293))
+- [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
+- [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
+
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Turned off **Armor Equip Sound Tweak** when equipping **Curios Items**.
+- Added more **Ore Processing** compat for **Cobalt Ore**.
+- Adjusted the **Angel Ring** recipe a **little bit**.
+- **Adjusted** the **Resonating Nether Ore** texture.
+- Added **BYG Saplings** to the **FFB Market**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed an **issue** with the **Armor Equip Sound** spamming while in **inventory**.
+- Fixed not being able to **craft** the **Cyclic -  Solar Panel Generator**.
+- World bottom **Bedrock Layer** not being **flat** has been **fixed**.
+- Fixed a **Recipe Conflict** with **Glass Facade** and **Mirror**.
+- Fixed a few **Crossroads** recipe conflicts.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Added a new Chapter: **Thermal Series**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.19
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.5.0</h1>
 
 **Crossroads, Silent's Gems, YUNG's Mods + More!**
