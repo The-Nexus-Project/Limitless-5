@@ -31,7 +31,6 @@
 - Converted **Tinker's Bronze** in **@MA** to **Amethyst Bronze**.
 - Blacklisted **sort buttons** in **Thermal Series GUIs**.
 - Added **Zinc** Ore Processing compat to **Pulverizer**.
-
 - Some changes in mod updates.
 
 
