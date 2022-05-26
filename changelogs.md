@@ -10,7 +10,6 @@
 - Added the 2nd **Official EU Server** to the **Multiplayer Server List.**
 - Filtered out **@Thermal Series - Coins** from **Loot Bags**.
 - Added **Uranium Rod** recipe in the **Metal Press**.
-- Some changes in mod updates.
 
 
 **Fixes**
@@ -19,7 +18,6 @@
 - Fixed **@Cyclic - Text Projector** not being **craftable**.
 - Fixed a **Recipe Conflict** with **Chain Plating**.
 - Fixed a **Recipe Conflict** with **Gold Chain**.
-- Some fixes in mod updates.
 
 
 **Quests**
