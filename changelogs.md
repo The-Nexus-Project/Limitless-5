@@ -1,3 +1,50 @@
+<h1>v2.7.1</h1>
+
+**Some changes & fixes. It's recommended to update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Changes**
+- Added **convert recipes** for **Expanded Storage chests/barrels** to **@Sophisticated Storage variants**.
+- Added the 2nd **Official EU Server** to the **Multiplayer Server List.**
+- Filtered out **@Thermal Series - Coins** from **Loot Bags**.
+- Added **Uranium Rod** recipe in the **Metal Press**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed an **issue** where you would **crash** when **entering** an **existing world** after **updating** to **2.7.0**.
+- Fixed **Sorting Buttons** overlapping in the **Sophisticated Storage GUIs**.
+- Fixed **@Cyclic - Text Projector** not being **craftable**.
+- Fixed a **Recipe Conflict** with **Chain Plating**.
+- Fixed a **Recipe Conflict** with **Gold Chain**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Made the **Architect's Favor** quest **hidden** & **optional**.
+- Fixed quite a few **typos** in some **Chapters**.
+- Minor changes.
+
+
+**Current Forge Version**
+- 40.1.19
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.7.0</h1>
 
 **Industrial Contraptions, Sophisticated Storage, New Quests + More!**
