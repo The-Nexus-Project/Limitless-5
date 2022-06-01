@@ -1,3 +1,85 @@
+<h1>v2.8.0</h1>
+
+**AE Additions, Tinker's Reforged, Habitat + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AE Additions](https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork)
+- [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae) (+ [Obscuria's Essentials](https://www.curseforge.com/minecraft/mc-mods/ob-core) & [Tooltips](https://www.curseforge.com/minecraft/mc-mods/ob-tooltips))
+- [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo)
+- [Cable Tiers](https://www.curseforge.com/minecraft/mc-mods/cable-tiers)
+- [Dramatic Doors](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors)
+- [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
+- [Entity Collision FPS Fix](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix)
+- [Habitat](https://www.curseforge.com/minecraft/mc-mods/habitat)
+- [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control)
+- [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)
+- [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi)
+- [Pretty Pipez](https://www.curseforge.com/minecraft/texture-packs/pretty-pipez) (**Resource Pack.**)
+- [Tinker's Reforged](https://www.curseforge.com/minecraft/mc-mods/tinkers-reforged)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **Repurposed Structures** support(Villages & Dungeons) to **Farmers Delight**, **Friends And Foes**, **Hexerei**, **Immersive Engineering**, **More Villagers**, **PneumaticCraft Repressurized**, **Advanced Peripherals**, **Better Dungeons** & **Better Strongholds**.
+- All **Ore types** are no longer all **Ultimined(excavated)** together when **mined**.
+- Added **@Create - Brass Ingot** support in the **@Thermal - Induction Smelter**.
+- Added **Dimensional Shard Ore** support in various ore **processing machines**.
+- The **@Structures Compass** can now be used to find **Strongholds**.
+- Added an **alternate recipe** for the **Structures Compass**.
+- Removed **Copper Anvil** recipes due to some **issues**.
+- Enabled **@Quark - Improved Tooltips**.
+- Taking **Screenshots** is now **faster**.
+- And some changes in mod updates.
+
+
+**Fixes**
+- **Compact Machines** losing data & entering other peoples **Compacts** has been **solved**.
+- Fixed **@Earth Mobs - Mobs & @Orcz - Mobs** spawning in the **Mushroom Fields Biome**.
+- Fixed **Immersive Engineering** - **Village** Storage Crate **loot table** being **empty**.
+- Fixed the **Immersive Engineering** Village **Crate Loot Table** being **empty**.
+- Fixed **@Create - Crushed Tin** smelting into the wrong **Tin Ingot** type.
+- Fixed a **Recipe Conflict** with **@Thermal Series - Copper Nugget**.
+- Fixed many **@Thermal Recipes** outputting the **wrong item types**.
+- Plus other various fixes in mod updates.
+
+
+**Quests**
+- The **@Iron Jetpacks** Chapter are now **for the most part** detected by **crafting only**.
+- Fixed any **@Iron Jetpacks** quest **completing** by using **any Parts / Jetpacks**.
+- Fixed the **@Productive Bees** quests **completing** by using **any Combs**.
+- Added 15 new **additional quests** to the **AE2 Chapter**.
+- Added a new **Chapter**: **Occultism**. (**By: choekstr.**)
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **39.1.19** to **39.1.30**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.19
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.7.1</h1>
 
 **Some changes & fixes. It's recommended to update!**
