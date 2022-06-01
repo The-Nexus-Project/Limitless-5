@@ -1,5 +1,7 @@
 <h1>v2.8.0</h1>
 
+**(Also includes 2.8.1 changes below.)**
+
 **New Quests, AE Additions, Tinker's Reforged, Habitat + More!**
 
 **Always remember to backup your world(s) before updating!**
@@ -13,6 +15,7 @@
 - [Dramatic Doors](https://www.curseforge.com/minecraft/mc-mods/dramatic-doors)
 - [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 - [Entity Collision FPS Fix](https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix)
+- [FE Transformer](https://www.curseforge.com/minecraft/mc-mods/fe-transformer) - (**v2.8.1**)
 - [Habitat](https://www.curseforge.com/minecraft/mc-mods/habitat)
 - [In Control!](https://www.curseforge.com/minecraft/mc-mods/in-control)
 - [LaserIO](https://www.curseforge.com/minecraft/mc-mods/laserio)
@@ -39,6 +42,7 @@
 
 
 **Fixes**
+- Fixed some worlds crashing while preparing spawn area. - (**v2.8.1**)
 - **Compact Machines** losing data & entering other peoples **Compacts** has been **solved**.
 - Fixed **@Earth Mobs - Mobs & @Orcz - Mobs** spawning in the **Mushroom Fields Biome**.
 - Fixed **Immersive Engineering** - **Village** Storage Crate **loot table** being **empty**.
