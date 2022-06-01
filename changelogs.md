@@ -1,6 +1,6 @@
 <h1>v2.8.0</h1>
 
-**AE Additions, Tinker's Reforged, Habitat + More!**
+**New Quests, AE Additions, Tinker's Reforged, Habitat + More!**
 
 **Always remember to backup your world(s) before updating!**
 
