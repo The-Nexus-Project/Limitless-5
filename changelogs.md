@@ -1,3 +1,42 @@
+<h1>v2.8.2</h1>
+
+**"Hotfix" Update. Item Stacking issues fixed, 3 mods removed.**
+
+**Recommended to update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Removed**
+- [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae) (+ [Obscuria's Essentials](https://www.curseforge.com/minecraft/mc-mods/ob-core) & [Tooltips](https://www.curseforge.com/minecraft/mc-mods/ob-tooltips))
+
+
+**Note for removed mods:**
+- These mods were causing heavy lag while exploring oceans, will look into re-adding these in a future update if situation is better.
+
+
+**Fixes**
+- An issue regarding newly picked up items not stacking has been fixed.
+- Plus other various fixes in mod updates.
+
+
+**Current Forge Version**
+- 40.1.30
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.8.0</h1>
 
 **(Also includes 2.8.1 changes below.)**
