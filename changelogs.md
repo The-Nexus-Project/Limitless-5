@@ -4,6 +4,8 @@
 
 **Recommended to update!**
 
+**Full 2.8.0 changelog here: [CLICK ME](https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v280)**!
+
 **Always remember to backup your world(s) before updating!**
 
 
