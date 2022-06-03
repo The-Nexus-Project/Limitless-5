@@ -17,7 +17,6 @@
 
 **Fixes**
 - An issue regarding newly picked up items not stacking has been fixed.
-- Plus other various fixes in mod updates.
 
 
 **Current Forge Version**
