@@ -46,7 +46,7 @@
 
 
 **Updated**
-- **Forge **from version **39.1.30** to **39.1.48**
+- **Forge** from version **39.1.30** to **39.1.48**
 - All mods that could be updated have been updated.
 
 
