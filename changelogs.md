@@ -1,3 +1,72 @@
+<h1>v2.9.0</h1>
+
+**Many new Quests, AgriCraft, Industrial Foregoing, Twilight Forest + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) (+ [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium))
+- [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
+- [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice)
+- [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist)
+- [Tempad](https://www.curseforge.com/minecraft/mc-mods/tempad)
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
+- [YUNG's Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added **Oreberry Compat** to **@Create Compacting** & **@Crossroads Centrifuge**. (**By: Spontaneo.**)
+- Added **Compact Ore** variants of most **Nether Ores** available. (**+ 2 End Ores.**)
+- Blacklisted **GUIs** to prevent **sort buttons** from **showing up**.
+- And some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Beds** and **other things** not working correctly in the **Mining Dimension**.
+- Plus other various fixes in mod updates.
+
+
+**Quests**
+- Added **6** new **Quests** to the **Mekanism Chapter**.
+- Added **1** new **Quest** to the **Adventure Chapter**.
+- Added a new **Mini Chapter**: **Gadgets**. (**By: HighHybrid**.)
+- Added a new **Chapter**: **Buddycards**. (**By: HighHybrid**.)
+- Added a new **Chapter**: **Industrial Foregoing**.
+- Added a new **Mini Chapter**: **Iron Furngens**. (**By: HighHybrid**.)
+- Added a new **Chapter**: **Sophisticated Storage & Backpacks**. (**By: HighHybrid**.)
+- Added a new **Chapter**: **The Twilight Forest**.
+- Added a new **Mini Chapter**: **Scannable**.
+- Minor changes.
+
+
+**Updated**
+- **Forge **from version **39.1.30** to **39.1.48**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.30
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.8.2</h1>
 
 **"Hotfix" Update. Item Stacking issues fixed, 3 mods removed.**
