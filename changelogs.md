@@ -51,7 +51,7 @@
 
 
 **Current Forge Version**
-- 40.1.30
+- 40.1.48
 
 
 **Reporting Issues**
