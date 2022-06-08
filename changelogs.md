@@ -1,6 +1,6 @@
 <h1>v2.9.0</h1>
 
-**Many new Quests, AgriCraft, Industrial Foregoing, Twilight Forest + More!**
+**Many new Quests, Industrial Foregoing, Twilight Forest + More!**
 
 **Always remember to backup your world(s) before updating!**
 
