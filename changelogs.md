@@ -1,3 +1,47 @@
+<h1>v2.9.1</h1>
+
+**Smaller update which updates a few mods and fixes some issues- 1 mod removed, 1 added!**
+
+**Recommended to update!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft) (+ [Infinity Lib](https://www.curseforge.com/minecraft/mc-mods/infinitylib))
+
+
+**Removed**
+- [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) (+ [CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)) - (**Removed due to some issues!**)
+
+
+**Fixes**
+- A crash when **breaking** any **Barrel** from **@Sophisticated Storage** is now fixed.
+- A dupe using the **IE Hammer** has been fixed.
+- And a few other **critical bugs** fixed in **some mod updates**.
+
+
+**Updated**
+- Updated **11** mods.
+
+
+**Current Forge Version**
+- 40.1.48
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.9.0</h1>
 
 **Many new Quests, Industrial Foregoing, Twilight Forest + More!**
