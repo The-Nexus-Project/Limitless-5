@@ -1,3 +1,55 @@
+<h1>v2.10.0</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Macaw's Fences - BYG](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-oh-the-biomes-youll-go)
+- [Macaw's Paths and Pavings](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)
+- [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
+- [XNet Gases](https://www.curseforge.com/minecraft/mc-mods/xnet-gases)
+
+
+**Removed**
+- [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged) - (**Caused issues like Timeouts upon reconnecting to servers.**)
+
+
+**Changes**
+- **Seeds** will now **only convert** to **@AgriCraft Seeds** in the **Seed Analyzer** block.
+- Turned off "**Weeds**" in **@AgriCraft**.
+- And some changes in mod updates.
+
+
+**Fixes**
+- Fixed an **issue** regarding not being able to **reconnect** to **servers** after **disconnecting**.
+- Plus other various fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.48
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.9.1</h1>
 
 **Smaller update which updates a few mods and fixes some issues- 1 mod removed, 1 added!**
