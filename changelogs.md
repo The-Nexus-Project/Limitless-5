@@ -1,3 +1,61 @@
+<h1>v2.11.0</h1>
+
+**Flux Networks, Tetra, Wild Backport + More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [AgriCraft OptiFine Compat](https://www.curseforge.com/minecraft/mc-mods/agricraft-optifine-compat)
+- [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
+- [More MobGriefing Options](https://www.curseforge.com/minecraft/mc-mods/more-mobgriefing-options)
+- [Telepastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
+- [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) (+ [Art of Forging](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon), + [Grimoire of Tetra](https://www.curseforge.com/minecraft/mc-mods/grimoire-of-tetra), + [Tetra Pak](https://www.curseforge.com/minecraft/mc-mods/tetra-pak))
+- [The Wild Backport](https://www.curseforge.com/minecraft/mc-mods/the-wild-backport)
+
+
+**Removed**
+- [Colossal Chests](https://www.curseforge.com/minecraft/mc-mods/colossal-chests) - (**Removed due to issues and crashes!**)
+- [Dimensional Cake Rebaked](https://www.curseforge.com/minecraft/mc-mods/dimensional-cake-rebuilt) - (**Removed from CF, replaced by Telepastries.**)
+- [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft) - (**Removed due to issues and crashes!**)
+
+
+**Changes**
+- Added an **alternate recipe** for the **Grace of the Creator**. (**For Angel Ring**.)
+- And some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Raw Ore Blocks** in the **@Mekanism - Enrichment Chamber** outputting wrong **types** of **Dusts**.
+- Plus other various fixes in mod updates.
+
+
+**Quests**
+- Added a new **Mini Chapter**: **Flux Networks**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.48
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.10.0</h1>
 
 **Fixes, some changes, mod additions + more!**
