@@ -1,5 +1,7 @@
 <h1>v2.11.0</h1>
 
+**Hotfix 2 notes below.**
+
 **Flux Networks, Tetra, Wild Backport + More!**
 
 **Always remember to backup your world(s) before updating!**
@@ -22,11 +24,13 @@
 
 **Changes**
 - Added an **alternate recipe** for the **Grace of the Creator**. (**For Angel Ring**.)
+- Turned off **xp requirement** for the **Angel Ring**. - (**Hotfix 2**)
 - And some changes in mod updates.
 
 
 **Fixes**
 - Fixed **Raw Ore Blocks** in the **@Mekanism - Enrichment Chamber** outputting wrong **types** of **Dusts**.
+- Fixed JEI not displaying recipes properly. - (**Hotfix 2**)
 - Plus other various fixes in mod updates.
 
 
