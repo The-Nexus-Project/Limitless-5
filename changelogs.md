@@ -8,7 +8,7 @@
 
 
 **Added**
-- [AgriCraft OptiFine Compat](https://www.curseforge.com/minecraft/mc-mods/agricraft-optifine-compat)
+- [AgriCraft Compat](https://www.curseforge.com/minecraft/mc-mods/agricraft-optifine-compat)
 - [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
 - [More MobGriefing Options](https://www.curseforge.com/minecraft/mc-mods/more-mobgriefing-options)
 - [Telepastries](https://www.curseforge.com/minecraft/mc-mods/telepastries)
