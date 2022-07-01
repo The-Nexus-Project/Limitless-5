@@ -1,3 +1,63 @@
+<h1>v2.12.0</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory)
+
+
+**Removed**
+- [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders)
+- [More Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/more-storage-drawers) - (**Removed due to issues.**)
+
+
+**Changes**
+- Added **Kepu** Ore **Processing Compat** to **various machines**.
+- Re-enabled **FTB Chunks forceloadin** by **default**.
+- And some changes in mod updates.
+
+
+**Fixes**
+- **@Angel Ring** requiring **one exp level** with config set to **0** has been **fixed**.
+- A **crash** when having the **Lava Potion** effect has been **fixed**.
+- A placed **@Tetra - Scroll** crash has been **fixed**.
+- Fixed **Ring of Invisibility** being **disabled**.
+- Some **Empty Tag** issues are now **fixed**.
+- Plus other various fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.48** to **40.1.52**
+- All mods that could be updated have been updated.
+
+
+**Note**
+- For FTB Chunks forceloaded chunks to return on an existing world you will need to remove the "ftbranks" folder within your worlds "serverconfig" folder.  <br />
+Then restart the server.
+
+
+**Current Forge Version**
+- 40.1.52
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.11.1</h1>
 
 **Small update resolving some recipe issues around @Thermal Machines**.
