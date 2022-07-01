@@ -1,5 +1,7 @@
 <h1>v2.12.0</h1>
 
+**Fixes, changes and a mod addition!**
+
 **Always remember to backup your world(s) before updating!**
 
 
