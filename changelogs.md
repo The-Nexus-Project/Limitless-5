@@ -17,7 +17,7 @@
 **Changes**
 - Added **advancements** for acquiring the **Angel Ring** & **Time in a Bottle**.
 - Added **Kepu** Ore **Processing Compat** to **various machines**.
-- Re-enabled **FTB Chunks forceloadin** by **default**.
+- Re-enabled **FTB Chunks forceloading** by **default**.
 - And some changes in mod updates.
 
 
