@@ -1,3 +1,55 @@
+<h1>v2.13.0</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- [Blood Smeltery](https://www.curseforge.com/minecraft/mc-mods/blood-smeltery)
+- [Powah Rearchitected](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected)
+- [Universal Grid](https://www.curseforge.com/minecraft/mc-mods/universal-grid)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Many **variants** of **Logs** & **Planks** can now be **used** to create **Chests**.
+- Re-Enabled **Archwood Tree** generation.
+- And some changes in mod updates.
+
+
+**Fixes**
+- Fixes in mod updates.
+
+
+**Quests**
+- Added a new **Chapter**: **Powah**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.52
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.12.0</h1>
 
 **Fixes, changes and a mod addition!**
