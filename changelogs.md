@@ -1,5 +1,7 @@
 <h1>v2.13.0</h1>
 
+**Powah, Blood Magic & More!**
+
 **Always remember to backup your world(s) before updating!**
 
 
