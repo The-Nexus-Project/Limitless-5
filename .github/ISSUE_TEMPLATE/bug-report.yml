@@ -44,11 +44,11 @@ body:
     id: server
     attributes:
       label: Are you on a Server?
+    validations:
+      required: true
       options:
         - label: Yes.
         - label: No.
-    validations:
-      required: true
   - type: textarea
     id: logs
     attributes:
