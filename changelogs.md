@@ -1,3 +1,67 @@
+<h1>v2.14.0</h1>
+
+**Lazier AE2, Tips, Fixes & More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Lazier AE2](https://www.curseforge.com/minecraft/mc-mods/lazierae2)
+- [Max Health Fix](https://www.curseforge.com/minecraft/mc-mods/max-health-fix)
+- [Prefab](https://www.curseforge.com/minecraft/mc-mods/prefab) - (**Only for a Starter House.**)
+- [Tips](https://www.curseforge.com/minecraft/mc-mods/tips)
+
+
+**Removed**
+- [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo) - (**Removed temporarily due to crashes with newest Create.**)
+
+
+**Changes**
+- Disabled the **Magical Forest** biome from generating in **new worlds** due to **some issues**. (**Mod won't be removed due to a MC issue that would break worlds.**)
+- Disabled the **@Create Compat** in **@AgriCraft** due to **crashing issues**. (**Will be re-enabled when fixed.**)
+- **Blacklisted** lots of **GUIs** to prevent **sort buttons** from showing up.
+- Added lots of custom **Tips** for the **Tips** mod. (**Around 110+ new.**)
+- The **trades** of the **Librarian Villager** can now be **shuffled** again.
+- **Disabled** the **spawning** of the **@Alex's Mobs Cave Centipede** mob.
+- And some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Content Overlap** with the **Azalea Wood Type**. (**Merged Quark with Ecologics**.)
+- Fixed **Azalea & Blossom Saplings** outputting the wrong **Log** in **Bonsai Pots**.
+- Fixed a **recipe conflict** with **@TConstruct - Pattern**.
+- Fixes in mod updates.
+
+
+**Quests**
+- Any **Patchouli Book** will no longer trigger the **Book of Natural Aura** quest.
+- Added "**Starting House Prefab**" to the **Welcome Chapter**.
+- Added **7 new quests** to the **AE2 Chapter**.
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.52** to **40.1.60**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.52
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.13.0</h1>
 
 **Powah, Blood Magic & More!**
