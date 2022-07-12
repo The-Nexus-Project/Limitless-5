@@ -21,7 +21,6 @@
 - Disabled the **@Create Compat** in **@AgriCraft** due to **crashing issues**. (**Will be re-enabled when fixed.**)
 - **Blacklisted** lots of **GUIs** to prevent **sort buttons** from showing up.
 - Added lots of custom **Tips** for the **Tips** mod. (**Around 110+ new.**)
-- The **trades** of the **Librarian Villager** can now be **shuffled** again.
 - **Disabled** the **spawning** of the **@Alex's Mobs Cave Centipede** mob.
 - And some changes in mod updates.
 
