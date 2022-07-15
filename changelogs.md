@@ -22,6 +22,7 @@
 - Lowered **spawn-weight** for **Fireflies** from **@Naturalist**.
 - Disabled **spawning** of **all mobs** from **@Orcz**. - (**For now.**)
 - Disabled the **structure** from **@Orcz**. - (**For now.**)
+- Increased **Nickel Ore** generation chances.
 - And some changes in mod updates.
 
 
