@@ -26,9 +26,9 @@
 
 
 **Fixes**
-- Fixed multiple recipes outputting and using the wrong items/blocks.
-- Fixed @Create - Sturdy Casing not being craftable.
-- Sculk Catalysts causing crashes has been fixed.
+- Fixed multiple **recipes** outputting and using the **wrong items/blocks**.
+- Fixed **@Create - Sturdy Casing** not being **craftable**.
+- **Sculk Catalysts** causing **crashes** has been **fixed**.
 - Fixes in mod updates.
 
 
