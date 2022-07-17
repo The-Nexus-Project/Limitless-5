@@ -1,3 +1,47 @@
+<h1>v2.15.1</h1>
+
+**Some important fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
+
+
+**Changes**
+- Adjusted the **Zinc Plate** texture to match "new" **Zinc Color**.
+- **You** can no longer **open** other players **backpacks**.
+
+
+**Fixes**
+- Fixed **Aluminum Plate** not being craftable in the **Multiservo Press**.
+- **Crashes** when breeding **frogs** from **@TheWildBackport** has been **fixed**.
+- Fixed **Pigs** not spawning at all.
+- Fixed **Azalea Ladder** recipe.
+
+
+**Updated**
+- Updated **1** mod.
+
+
+**Current Forge Version**
+- 40.1.60
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.15.0</h1>
 
 **Goblins & Dungeons, Architect's Palette, The Graveyard & More!**
