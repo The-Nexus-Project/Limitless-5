@@ -1,3 +1,65 @@
+<h1>v2.16.0</h1>
+
+**Fixes, changes, some mod additions & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Brewin' And Chewin](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin)
+- [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes)
+- [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- The **Crystal Growth Chamber** can now be **crafted** using any **Wooden Chest**.
+- Re-Enabled **@AgriCraft's @Create** integration.
+- **Re-Enabled** the **@Mekanism HUD** by **default**.
+- Disabled the **Quark Dungeon**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Fixed **Quark's Dungeon** spawning in any **dimension** by **disabling it entirely**.
+- The **Discord Rich Presence** now **works better** on **Linux and M1 Mac**.
+- Actually fixed **Pigs** not spawning at all.
+- Fixed **Silver Ingot** from **nuggets** recipe.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Removed a few **Quests** from the **@Thermal Series Chapter** due to them being **unobtainable**.
+- Fixed **Repurposed Structures Chapter** having the **wrong descriptions**.
+- **Sweet Dreams** reward is now **per player**.
+- Other minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.60** to **40.1.68**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.68
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.15.1</h1>
 
 **Some important fixes!**
