@@ -1,0 +1,546 @@
+{
+	id: "413D8D5B1F90DA44"
+	group: "74CE4A09AC5F3CF1"
+	order_index: 12
+	filename: "hex_casting"
+	title: "Hex Casting"
+	icon: "hexcasting:wand_akashic"
+	subtitle: ["Spellcasting by drawing out unique patterns!"]
+	default_quest_shape: "hexagon"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Media Discovery"
+			x: 0.0d
+			y: 0.0d
+			subtitle: "Discover an Underground Geode and pick up a piece of Charged Amethyst, your gateway into Hex Casting!"
+			description: [
+				"When you make this discovery, we'll get you a guide and some charged amethyst to get you on your way!"
+				""
+				"The link to the Discord is in the guidebook if you have any questions or need any help!"
+				""
+				"&o&7...can you hear that humming?"
+			]
+			id: "14477492A254A726"
+			tasks: [
+				{
+					id: "7AA14B7CA004A4AC"
+					type: "item"
+					item: "hexcasting:charged_amethyst"
+				}
+				{
+					id: "09B81D118B485A32"
+					type: "advancement"
+					advancement: "hexcasting:root"
+					criterion: ""
+				}
+			]
+			rewards: [
+				{
+					id: "7C78B39E442FD008"
+					type: "item"
+					team_reward: false
+					item: {
+						id: "patchouli:guide_book"
+						Count: 1b
+						tag: {
+							"patchouli:book": "hexcasting:thehexbook"
+						}
+					}
+				}
+				{
+					id: "7E54007FEBC4C6C7"
+					type: "item"
+					item: "hexcasting:charged_amethyst"
+					count: 8
+				}
+				{
+					id: "7FE9B4090EAAB55D"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "76AA79E6ECE8224C"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "It's a \"Staff\", not a \"Wand\""
+			x: 0.0d
+			y: -1.5d
+			subtitle: "Craft yourself a Magical Staff, the method of drawing out patterns!"
+			description: [
+				"&o&7Yer a wizard Har...was this joke made already?"
+				""
+				"For a reward, once this quest is done, everyone on your team can pick a pigment that they feel best suites them. This changes the color of your personal casting particles as well as some other things. :)"
+			]
+			dependencies: ["14477492A254A726"]
+			id: "74FE53E15362843D"
+			tasks: [{
+				id: "059F78F9693A8C19"
+				type: "item"
+				title: "Hex Casting Staff"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "hexcasting:wands"
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "0B9ABA8783BF36D3"
+					type: "choice"
+					title: "x1 Free Pigment of your choosing! Express yourself!"
+					icon: "hexcasting:uuid_colorizer"
+					team_reward: false
+					table_id: 4842304996804775756L
+				}
+				{
+					id: "1588E4820C48FBB5"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "2A7F45644FDFB1A0"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "A Change of Fate and Understanding"
+			x: 0.0d
+			y: 4.5d
+			subtitle: "When casting a hex, border the edge of &kdeath and reach enlightenment"
+			description: [
+				""
+				"You've enlighted. You have seen everything. Check your Hex Guide Book."
+				""
+				"You have seen. You have seen. You have seen. You have seen. You have s&keen EVERYTHING."
+			]
+			dependencies: ["3F1D881AD252ECB0"]
+			hide: true
+			hide_text_until_complete: true
+			id: "3423E7EAE06B5534"
+			tasks: [{
+				id: "081207946B1E61AB"
+				type: "advancement"
+				title: "???"
+				advancement: "hexcasting:enlightenment"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "744B9929CE3D4250"
+					type: "item"
+					item: "lootbagmod:lootbag"
+					count: 4
+				}
+				{
+					id: "6E6C0D91E61D77A4"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			subtitle: "Try to cast a spell from a scroll...and fail."
+			dependencies: ["14477492A254A726"]
+			id: "7D164909880D6DC9"
+			tasks: [{
+				id: "6998CB49DD82D021"
+				type: "advancement"
+				advancement: "hexcasting:y_u_no_cast_angy"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "4018CD0297D31551"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "4A160F1A7720CE0F"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: 1.5d
+			subtitle: "Waste a lot of media trying to cast a spell"
+			dependencies: ["14477492A254A726"]
+			id: "76F27B70F7C3A96D"
+			tasks: [{
+				id: "11B4BF336FA379F6"
+				type: "advancement"
+				advancement: "hexcasting:aaa_wasteful_cast"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "02C568060F20F13A"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "4BBA12D4C9FC4702"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			subtitle: "Use a huge amount of media when casting a single spell"
+			dependencies: ["14477492A254A726"]
+			id: "5F4A69E754251DE2"
+			tasks: [{
+				id: "418F291862AD03DE"
+				type: "advancement"
+				advancement: "hexcasting:aab_big_cast"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "28A156EA9B92C462"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "45AA396805094B41"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: 3.0d
+			subtitle: "Let nature take a piece of your mind in exchange for a Hex"
+			description: ["Cast a spell without any media? Your mind with do just fine!"]
+			dependencies: ["7D164909880D6DC9"]
+			id: "3F1D881AD252ECB0"
+			tasks: [{
+				id: "2246AEFCEE907533"
+				type: "advancement"
+				advancement: "hexcasting:opened_eyes"
+				criterion: ""
+			}]
+			rewards: [
+				{
+					id: "778EA358C64B702E"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "3C3FDDC8C7F08786"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "I See It!"
+			x: 1.5d
+			y: 0.0d
+			subtitle: "Craft a Scrying Lense"
+			dependencies: ["74FE53E15362843D"]
+			id: "1CEBEF490BA5AC83"
+			tasks: [{
+				id: "587B3CEB86231DAE"
+				type: "item"
+				item: "hexcasting:lens"
+			}]
+			rewards: [
+				{
+					id: "119BBA9A2ECC1915"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "76533110C1A57B53"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "Mathematics? That's for eggheads!"
+			x: 1.5d
+			y: -1.5d
+			subtitle: "Craft an Abacus"
+			dependencies: ["74FE53E15362843D"]
+			id: "26206717E74CA76E"
+			tasks: [{
+				id: "7C49EE2E0B6D710F"
+				type: "item"
+				item: "hexcasting:abacus"
+			}]
+			rewards: [
+				{
+					id: "66A966410D4DEE8B"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "100912530CE1645B"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "Hangman's Gambit"
+			x: -1.5d
+			y: -3.0d
+			subtitle: "Craft a Focus"
+			dependencies: ["74FE53E15362843D"]
+			id: "24AFA82E1B544201"
+			tasks: [{
+				id: "117A532B922A443E"
+				type: "item"
+				item: "hexcasting:focus"
+			}]
+			rewards: [
+				{
+					id: "7B0137B8FA190D2A"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "3D50D264575DA1FB"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "Hangman's Gambit x64"
+			x: -1.5d
+			y: -4.5d
+			subtitle: "Craft a Spellbook"
+			dependencies: ["24AFA82E1B544201"]
+			id: "313D31F3F0D6E110"
+			tasks: [{
+				id: "53A0CB3FC83F8B55"
+				type: "item"
+				item: "hexcasting:spellbook"
+			}]
+			rewards: [
+				{
+					id: "15509DA37E65BC91"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "6585C9D9EE9AA42F"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "Basic Spell Container"
+			x: 0.0d
+			y: -3.0d
+			subtitle: "Craft a Cypher"
+			dependencies: ["74FE53E15362843D"]
+			id: "43F0F57101E922CD"
+			tasks: [{
+				id: "34BAB5D5C059BA9D"
+				type: "item"
+				item: "hexcasting:cypher"
+			}]
+			rewards: [
+				{
+					id: "2BF5761C1ABCC96C"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "519E521C29653A60"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "Intermediate Spell Container"
+			x: 0.0d
+			y: -4.5d
+			subtitle: "Craft a Trinket"
+			dependencies: ["43F0F57101E922CD"]
+			id: "4B6128234956EE77"
+			tasks: [{
+				id: "31660147B0D6A897"
+				type: "item"
+				item: "hexcasting:trinket"
+			}]
+			rewards: [
+				{
+					id: "424D91D55F29CD1D"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "1E062DFCB1FFD544"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "Advanced Spell Container"
+			x: 0.0d
+			y: -6.0d
+			subtitle: "Craft an Artifact"
+			dependencies: ["4B6128234956EE77"]
+			id: "53C73F122D99F331"
+			tasks: [{
+				id: "5D92B0D6CAB506F4"
+				type: "item"
+				item: "hexcasting:artifact"
+			}]
+			rewards: [
+				{
+					id: "055352182BA45C40"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "474A786F35F9D461"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "Careful Cutting"
+			x: -1.5d
+			y: -1.5d
+			subtitle: "Craft a Jeweller's Hammer"
+			dependencies: ["74FE53E15362843D"]
+			id: "10BD8BED366FC7B2"
+			tasks: [{
+				id: "525174219EF15197"
+				type: "item"
+				item: {
+					id: "hexcasting:jeweler_hammer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "70CA1D22289E59C5"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "0870CCB6A5C9BAA9"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "Now I Understand!"
+			x: 1.5d
+			y: -3.0d
+			subtitle: "Craft any size scroll to show off your patterns!"
+			dependencies: ["74FE53E15362843D"]
+			dependency_requirement: "one_completed"
+			id: "12BCD8F93B5427DE"
+			tasks: [
+				{
+					id: "0491F649A97C361E"
+					type: "item"
+					item: "hexcasting:scroll_small"
+				}
+				{
+					id: "2A04F3DAF94DCAD9"
+					type: "item"
+					item: "hexcasting:scroll_medium"
+				}
+				{
+					id: "26220D8D042A4D8C"
+					type: "item"
+					item: "hexcasting:scroll"
+				}
+			]
+			rewards: [
+				{
+					id: "1412ED62D856F188"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "328EB682B52A0F85"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "The Sandwich, not the Underground Train"
+			x: -1.5d
+			y: -0.1d
+			subtitle: "Craft a Submarine Sandwich"
+			dependencies: ["74FE53E15362843D"]
+			id: "71468C735EE5C4B0"
+			tasks: [{
+				id: "72E04158F40967D9"
+				type: "item"
+				item: "hexcasting:sub_sandwich"
+			}]
+			rewards: [
+				{
+					id: "2F42C270F76B938A"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "2D978DCD68D2F613"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+		{
+			title: "It's All Coming Together!"
+			x: 1.5d
+			y: -4.5d
+			subtitle: "Craft a Blank Slate. Just looks like a better pattern display, I guess?"
+			dependencies: ["12BCD8F93B5427DE"]
+			id: "16036D0020CDD1EA"
+			tasks: [{
+				id: "3DB76522FF7015C1"
+				type: "item"
+				item: "hexcasting:slate"
+			}]
+			rewards: [
+				{
+					id: "572D3DA77F6BA9A4"
+					type: "item"
+					item: "lootbagmod:lootbag"
+				}
+				{
+					id: "7A6784B4208E51E9"
+					type: "loot"
+					table_id: 139139633314877365L
+				}
+			]
+		}
+	]
+}
