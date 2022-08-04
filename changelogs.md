@@ -31,6 +31,7 @@
 
 
 **Fixes**
+- Fixed **Enchantment Table** not being **openable**. - (**v2.17.1**)
 - **Enchanting Infuser** only reaching a **maximum power level** of **15** has been **fixed**.
 - Fixed **Sapling tags** on the **BYG Saplings**.
 - Some fixes in mod updates.
