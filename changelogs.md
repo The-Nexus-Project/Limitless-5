@@ -1,6 +1,7 @@
 <h1>v2.17.0</h1>
 
-**Note: It's recommended to regenerate the serverconfig folder within your world folder this update.**
+**Note: It's recommended to regenerate the serverconfig folder within your world folder this update.** <br />
+**(Delete the folder then start server.)**
 
 **Always remember to backup your world(s) before updating!**
 
