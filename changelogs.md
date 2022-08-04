@@ -1,3 +1,67 @@
+<h1>v2.17.0</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Compact Crafting](https://www.curseforge.com/minecraft/mc-mods/compact-crafting)
+- [Compressed Creativity](https://www.curseforge.com/minecraft/mc-mods/compressedcreativity)
+- [Etched](https://www.curseforge.com/minecraft/mc-mods/etched)
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Leaving** a **Compact Machine room** inside the **dimension** now **yields** the **Poison Effect**.
+- Added the newly opened **"NA2" server** to the **multiplayer list** by **default**.
+- Trophy **drop chances** are no longer **affected** by the **Looting Enchantment**.
+- **Adjusted** the **recipe** for the **Normal & Advanced Enchanting Infuser**.
+- **Trophies** now only **drop** if mobs are **killed** by the **player**.
+- Added **support** for all **BYG Saplings** in the **Bonsai Pots**.
+- Increased **spawn propability** for the **Crimson Iron Ore**.
+- **Adjusted** the **alternate recipes** for all **AE2 Presses**.
+- You can now **reroll** the **Librarian Villager** trades.
+- Some changes in mod updates.
+
+
+**Fixes**
+- **Enchanting Infuser** only reaching a **maximum power level** of **15** has been **fixed**.
+- Fixed **Sapling tags** on the **BYG Saplings**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Removed the "**Architect's Favor**" quest in the **Enigmatic Legacy** Chapter.
+- Adjusted the **descriptions** for the **Enchanting Infuser** quests.
+- Updated the **Hexerei Chapter**. (Thanks **Roncarlos974**!)
+- Added **18 new quests** to the **Buddycards Chapter**.
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.68
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.16.0</h1>
 
 **Fixes, changes, some mod additions & more!**
