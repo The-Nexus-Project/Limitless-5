@@ -1,3 +1,66 @@
+<h1>v2.18.0</h1>
+
+**Hex Casting, Pylons & more!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Clear Despawn](https://www.curseforge.com/minecraft/mc-mods/clear-despawn)
+- [Hex Casting](https://www.curseforge.com/minecraft/mc-mods/hexcasting)
+- [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons)
+- [Pane In The Glass](https://www.curseforge.com/minecraft/mc-mods/pane-in-the-glass)
+- [Pylons](https://www.curseforge.com/minecraft/mc-mods/pylons)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- **Added support** for the **Inferium Seed** in the **@Thermal Series - Phytogenic Insolator**.
+- **Blacklisted** various "**invalid items**" from the **Loot Bag loot table**.
+- Added **tags** to some **fluids & blocks** to add more **compatibility**.
+- **Loading Screen Tips** will now be **shown** on **screen** for **longer**.
+- **Lowered** the **Dungeon Crawl - Dungeon** spawn **probability**.
+- **Pillager Fortress's** no **longer spawns** constant **Pillagers**.
+- **Disabled** the **@ElementalCraft - Nectar Upgrade**.
+- Added a **recipe** for **Demon Stone**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- JEI **search highlighting** not **working** has been **solved**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- **Added** a new **Chapter**: **Mana and Artifice**. (**By: Roncarlos974!**)
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.68** to **40.1.73**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.17.0</h1>
 
 **The .1 update changes a config I forgot. Whoops.**
