@@ -30,6 +30,7 @@
 
 
 **Fixes**
+- **Fixed** a pretty **common crash** when joining a **world**. - (**v2.18.1**)
 - JEI **search highlighting** not **working** has been **solved**.
 - Some fixes in mod updates.
 
