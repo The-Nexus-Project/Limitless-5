@@ -1,3 +1,40 @@
+<h1>v2.18.2</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Potion ID Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/potion-id-packet-fixer)
+
+
+**Removed**
+- [Etched](https://www.curseforge.com/minecraft/mc-mods/etched) + [Pollen](https://www.curseforge.com/minecraft/mc-mods/pollen) (**Removed due to performance issues.**)
+
+
+**Changes**
+- **Disabled** all **mob spawns** in **@Alex's Mobs**. - (**Due to Performance issues.**)
+(**Note:** Mod can't be **removed** due to it being **required** for the mod **@IDAS**.)
+- **Lowered spawnrate** of all **@Dungeon's Arise** structures.
+- Some changes in mod updates.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.18.0</h1>
 
 **Hex Casting, Pylons & more!**
