@@ -3,10 +3,6 @@
 **Always remember to backup your world(s) before updating!**
 
 
-**Added**
-- [Potion ID Packet Fixer](https://www.curseforge.com/minecraft/mc-mods/potion-id-packet-fixer)
-
-
 **Removed**
 - [Etched](https://www.curseforge.com/minecraft/mc-mods/etched) + [Pollen](https://www.curseforge.com/minecraft/mc-mods/pollen) (**Removed due to performance issues.**)
 
