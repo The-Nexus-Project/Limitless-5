@@ -1,3 +1,38 @@
+<h1>v2.19.1</h1>
+
+**Small update with fixes and some changes.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Changes**
+- **Blacklisted** the **Goblin Trader** from **spawning** around **players** with the **@NoMoWanderer** items/blocks.
+- Blacklisted **Bee Cages** from being used inside non-allied **claimed chunks**.
+- You no longer **spawn** with the **@Caupona - Guide Book**.
+- Lowered **spawnrates** for **@Apotheosis** - **Bosses**.
+
+
+**Fixes**
+- **Fixed** a few **tag** and **recipe** issues.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.18.2</h1>
 
 **Always remember to backup your world(s) before updating!**
