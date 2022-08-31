@@ -33,6 +33,57 @@
 
 ---------------
 
+<h1>v2.19.0</h1>
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Blue Flame Burning](https://www.curseforge.com/minecraft/mc-mods/blueflame)
+- [Caupona](https://www.curseforge.com/minecraft/mc-mods/caupona)
+- [Pinnacle](https://www.curseforge.com/minecraft/texture-packs/pinnacle) - (Resource Pack!)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Some changes in mod updates.
+
+
+**Fixes**
+- Corrected the **@Beyond Earth** meteorite **loot table**. (**Steel Ingot type.**)
+- Turned off **Armor Auto Refill** to **resolve** a **few issue**s.
+- **Crawling Speed** being **very fast** has been **fixed**.
+- Fixes in **mod updates**.
+
+
+**Quests**
+- Fixed a **minor typo**.
+- Minor changes.
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.18.2</h1>
 
 **Always remember to backup your world(s) before updating!**
