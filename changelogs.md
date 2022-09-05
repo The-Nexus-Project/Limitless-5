@@ -1,3 +1,66 @@
+<h1>v2.20.0</h1>
+
+**More Furniture, Geodes, ChocoCraft & More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [ChocoCraft](https://www.curseforge.com/minecraft/mc-mods/chococraft)
+- [Geode+](https://www.curseforge.com/minecraft/mc-mods/geode-forge/) (+ [Geode O' Plenty](https://www.curseforge.com/minecraft/mc-mods/geode-o-plenty))
+- [Paladin's Furniture](https://www.curseforge.com/minecraft/mc-mods/paladins-furniture)
+- [Rebind Narrator](https://www.curseforge.com/minecraft/mc-mods/rebind-narrator)
+- [Tinkers' Rapier](https://www.curseforge.com/minecraft/mc-mods/tinkers-rapier)
+- [World Pre Generator](https://www.curseforge.com/minecraft/mc-mods/world-pre-generator)
+
+
+**Removed**
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - (**Removed temporarily due to some issues.**)
+
+
+**Changes**
+- **Blacklisted** the **Red Merchant & Wandering Trapper** from **spawning** around **players** with the **@NoMoWanderer** items/blocks.
+- Disabled **@Create compat for @AgriCraft** due to the mod not supporting the latest **@Create** update.
+- Added more **alternative recipes** for the **rest** of the **Demon Bricks**.
+- **Unbinded** the **Narrator keybinding** by **default**.
+- Cleaned up the **console / latest.log** file.
+- Some changes in mod updates.
+
+
+**Fixes**
+- ***Potentially*** fixed a **worldgen freezing issue** leading to a **Watchdog crash**.
+- Fixed some **invalid items** in the **loot tables** from **@IDAS**.
+- Fixed **Nether Osmium Ore** not being **harvestable**.
+- Fixed some **invalid mobs** spawning in **The End**.
+- Fixed **Camps** generating when they **shouldn't**.
+- Some fixes in mod updates.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.19.1</h1>
 
 **Small update with fixes and some changes.**
