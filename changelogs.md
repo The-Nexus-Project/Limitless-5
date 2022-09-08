@@ -11,14 +11,12 @@
 
 **Changes**
 - Turn off "**buffer_particles**" in the **Lodestone** config.
-- Some changes in mod updates.
 
 
 **Fixes**
 - Errors in **console** when typing **invalid commands** are now **fixed**.
 - Weird **artifacting & crashes** when using **Rubidium** is now **fixed**.
 - World **freezing & crashing** due to **watchdog** has been **fixed**.
-- Some fixes in mod updates.
 
 
 **Current Forge Version**
