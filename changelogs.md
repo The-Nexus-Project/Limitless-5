@@ -1,3 +1,43 @@
+<h1>v2.20.2</h1>
+
+**Important fixes. Recommended to update!**
+
+**Click link below for the full 2.20.x changelog:**
+
+[https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2200](https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2200)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Changes**
+- Turn off "**buffer_particles**" in the **Lodestone** config.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Errors in **console** when typing **invalid commands** are now **fixed**.
+- Weird **artifacting & crashes** when using **Rubidium** is now **fixed**.
+- World **freezing & crashing** due to **watchdog** has been **fixed**.
+- Some fixes in mod updates.
+
+
+**Current Forge Version**
+- 40.1.73
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.20.1</h1>
 
 **Hotfix removing Geode+ & Geode O' Plenty due to some crashing issues in The Nether.**
