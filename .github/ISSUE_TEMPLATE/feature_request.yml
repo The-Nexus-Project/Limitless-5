@@ -1,0 +1,24 @@
+name: Suggestion
+description: A report of a suggestion, feature request or similar.
+title: "[Suggestion]: "
+labels: ["enhancement"]
+assignees:
+  - Gbergz
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing!
+  - type: textarea
+    id: whats-your-suggestion
+    attributes:
+      label: What's your suggestion / feature request?
+      description: A detailed or short description of your suggestion.
+      value: "Text here."
+    validations:
+      required: true
+  - type: textarea
+    id: anythingelse
+    attributes:
+      label: Anything else to add?
+      description: Optional.
