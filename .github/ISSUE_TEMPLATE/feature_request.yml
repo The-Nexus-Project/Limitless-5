@@ -9,6 +9,7 @@ body:
     attributes:
       value: |
         Thank you for contributing!
+        Note that every suggestion you send might not be approved.
   - type: textarea
     id: whats-your-suggestion
     attributes:
