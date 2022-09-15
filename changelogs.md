@@ -1,3 +1,70 @@
+<h1>v2.21.0</h1>
+
+**New Critters, New Quests, Controller Support & More!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Controllable](https://www.curseforge.com/minecraft/mc-mods/controllable)
+- [Critters and Companions](https://www.curseforge.com/minecraft/mc-mods/critters-and-companions)
+- [Eccentric Tome](https://www.curseforge.com/minecraft/mc-mods/eccentric-tome)
+- [Fantasy's Furniture](https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture)
+- [Gateways to Eternity](https://www.curseforge.com/minecraft/mc-mods/gateways-to-eterrnity)
+- [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage)
+- [Joy of Painting](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)
+- [Just Enough Calculation](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation)
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
+- [Refined Cooking](https://www.curseforge.com/minecraft/mc-mods/refined-cooking)
+- [Some Assembly Required](https://www.curseforge.com/minecraft/mc-mods/some-assembly-required)
+
+
+**Removed**
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) - (**Replaced by Eccentric Tome.**)
+
+
+**Changes**
+- Added **@Alex's Mobs** - **mob drops** to most common **Loot Tables** since spawns are **disabled**.
+- Crafting the **Eccentric Tome** will now include **guide books**.
+- Added an **advancement** for **obtaining** your first **Loot Bag**.
+- Added **uncrafting recipes** for some **Storage Blocks**.
+- Added **recipes** for the **@Beyond Earth - Globes**.
+- Added some new **Tips** to the **loading screens**.
+- Some changes in mod updates.
+
+
+**Fixes**
+- Some fixes in mod updates.
+
+
+**Quests**
+- Added a new **Chapter**: **Tinkers' Construct**.
+- Updated **description** for the "**Eating 115 Everyday, 115 Years, Forever**" quest.
+- Other minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.73** to **40.1.80**
+- All mods that could be updated have been updated.
+
+
+**Current Forge Version**
+- 40.1.80
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.20.2</h1>
 
 **Important fixes. Recommended to update!**
