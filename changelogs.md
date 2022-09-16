@@ -1,3 +1,35 @@
+<h1>v2.21.1</h1>
+
+**Some fixes for structure generation, optional but recommended to update.**
+
+**Click link below for the full 2.21.x changelog:**
+
+[https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2200](https://github.com/The-Nexus-Project/Limitless-5/blob/main/changelogs.md#v2210)
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- Fixed **structures** rarely **generating** over **bodies of water**.
+
+
+**Current Forge Version**
+- 40.1.80
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.21.0</h1>
 
 **New Critters, New Quests, Controller Support & More!**
