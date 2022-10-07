@@ -1,3 +1,38 @@
+<h1>v2.23.1</h1>
+
+**Items not stacking fixed, a duping issue fixed. Recommended to update!**
+
+**Note: Already "unstackable items" will stay unstackable until dropped onto the ground then merged.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- **Items** not **stacking** when they are **newly picked** up or **similar** has been **fixed**.
+- A **duping issue** has been **resolved**.
+
+
+**Updated**
+- Updated **2** mods.
+
+
+**Current Forge Version**
+- 40.1.80
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.23.0</h1>
 
 **Fixes, some quests changes + more!**
