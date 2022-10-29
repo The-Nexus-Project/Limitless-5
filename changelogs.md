@@ -1,3 +1,59 @@
+<h1>v2.26.0</h1>
+
+**Two new mods, some changes, fixes & more**!
+
+**Note: Any generators from the mod "@Iron Generators" will be erased from your world if you update**!
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Experience Obelisk](https://www.curseforge.com/minecraft/mc-mods/experience-obelisk)
+- [Generator Galore](https://www.curseforge.com/minecraft/mc-mods/generatorgalore)
+
+
+**Removed**
+- [Iron Generators](https://www.curseforge.com/minecraft/mc-mods/iron-generators) (**Replaced by @Generator Galore**.)
+
+
+**Changes**
+- **Removed** the **Official EU-2 Server** from **server-list** by **default** as it has **closed its doors**.
+- Structures from **@Dungeons Arise** are now **less likely** to **collide** with **each other**.
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- **Renamed** the chapter "**Iron Furngens**" to "**Iron Galore**".
+- **Updated** the **Apotheosis Chapter**.
+- **Fixed** a few **typos**.
+- Minor changes.
+
+
+**Updated**
+- All **mods** that could be **update**d have been **updated**.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.25.0</h1>
 
 **A new mod, fixes & some changes!**
