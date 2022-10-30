@@ -6,7 +6,7 @@
 
 
 **Fixes**
-- A critical "**Rendering entity in world**" crash has been **resolved**.
+- A critical "**Rendering entity in world**" crash has been **resolved**. (**Hopefully...**)
 
 
 **Updated**
