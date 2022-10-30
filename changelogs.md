@@ -1,3 +1,35 @@
+<h1>v2.26.1</h1>
+
+**Important Hotfix!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Fixes**
+- A critical "**Rendering entity in world**" crash has been **resolved**.
+
+
+**Updated**
+- Updated **1** mod.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.26.0</h1>
 
 **Two new mods, some changes, fixes & more**!
