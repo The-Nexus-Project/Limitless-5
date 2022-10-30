@@ -1,4 +1,4 @@
-<h1>v2.26.1</h1>
+<h1>v2.26.2</h1>
 
 **An Actual Important Hotfix!**
 
