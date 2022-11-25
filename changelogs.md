@@ -1,3 +1,54 @@
+<h1>v2.28.0</h1>
+
+**A mod addition, some fixes, and a few changes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [What's That Slot?](https://www.curseforge.com/minecraft/mc-mods/whats-that-slot)
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- You can now **query** which **items** can be **placed** in a **specific slot** by holding down **Left-Alt**.
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- Fixed vanilla **Lantern** not being **accepted** into some **multiblock structures**.
+- **Dank Storage** item slots "**being invisible**" / "**out of sync**" has been **fixed**.
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Minor changes.
+
+
+**Updated**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.27.0</h1>
 
 **Dank Storage, a mod removed, some changes & fixes!**
