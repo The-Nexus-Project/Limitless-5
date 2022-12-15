@@ -1,3 +1,54 @@
+<h1>v2.29.0</h1>
+
+**Mod Updates. Fixes and some changes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- No mods removed.
+
+
+**Changes**
+- Added a **Note** to the **Enchanting Power** tooltip in the **Enchanting Infuser**.
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Removed a **quest** in the **Occultism Chapter**.
+- Fixed a **dependency issue**.
+- Minor changes.
+
+
+**Updated**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.1.84
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.28.0</h1>
 
 **A mod addition, some fixes, and a few changes!**
