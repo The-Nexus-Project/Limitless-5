@@ -23,7 +23,9 @@
 
 
 **Quests**
+- Removed a few quests from the **Thermal Series Chapter**.
 - Removed a **quest** in the **Occultism Chapter**.
+- Edited **Enchanting Infuser** description.
 - Fixed a **dependency issue**.
 - Minor changes.
 
