@@ -1,3 +1,55 @@
+<h1>v2.30.0</h1>
+
+**Mod Updates, new quest chapter and a few fixes!**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- [Better Statistic Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats)
+
+
+**Removed**
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
+
+
+**Changes**
+- Some **changes** in **mod updates, as always**.
+
+
+**Fixes**
+- **Fixed** some **Raw Storage Blocks** outputting the **wrong type** of **dusts** in the **Enrichment Chamber**.
+- **Fixed** a few **Tinkers Reforged** melting recipes **outputting** the **wrong amount in mB**.
+- Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- Added a new **Chapter**: **Industrial Contraptions**.
+- Minor changes.
+
+
+**Updated**
+- **Forge** from version **40.1.84** to **40.2.0**
+- All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.2.0
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.29.0</h1>
 
 **Mod Updates. Fixes and some changes!**
