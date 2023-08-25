@@ -1,3 +1,55 @@
+<h1>v2.34.0</h1>
+
+**Three mods removed due to compat and crashing issues. Fixes & changes in mod updates.**
+
+**Always remember to backup your world(s) before updating!**
+
+
+**Added**
+- No mods added.
+
+
+**Removed**
+- [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch) (**Compat issue with mods.**)
+- [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed) - (**Removed due to crashes on some systems.**)
+- [Tetra Pak](https://www.curseforge.com/minecraft/mc-mods/tetra-pak) (**Crashes with Create 0.5.1c**.)
+
+
+**Notable Changes**
+- **Added** a **Screenshot Button** to the **in-game pause menu**.
+- (**!**) Some **changes** in **mod updates, as always**.
+
+
+**Notable Fixes**
+- (**!**) Some **fixes** in **mod updates, as always**.
+
+
+**Quests**
+- No changes.
+
+
+**Updated**
+- **Forge** from version **40.2.4** to **40.2.10**
+- (**!**) All **mods** that could be **updated** have been **updated**.
+
+
+**Current Forge Version**
+- 40.2.10
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.33.0</h1>
 
 **Some performance improvements. And some changes & fixes in mod updates!**
