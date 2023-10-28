@@ -1,3 +1,39 @@
+<h1>v2.34.1</h1>
+
+**Hotfix. Fixes world timeouts.**
+
+**Please always do a fresh install when updating the pack to avoid issues!** <br />
+**Also remember to always backup your world(s) before updating!**
+
+
+**Removed**
+- [Earth Mobs](https://www.curseforge.com/minecraft/mc-mods/earth-mobs) <br />
+  ^ (**Version for MC 1.18.2 removed from CF.**)
+- [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer) <br />
+  ^ (**Caused world timeout crashes.**)
+
+
+**Notable Fixes**
+- **Fixed** a **world timeout freeze issue**.
+
+
+**Current Forge Version**
+- 40.2.10
+
+
+**Reporting Issues**
+- Report any issues you might find in our [Discord](https://discord.io/TeamTNP) under #support, or on our [Issue Tracker](https://github.com/The-Nexus-Project/Limitless-5/issues) !
+
+
+
+**Need a server to play with your friends? or just don't know how to set one up?**
+
+**Get 25% off any game servers on your first month!**
+
+**Code: Gbergz |** [Bisecthosting.com/Gbergz](https://bisecthosting.com/gbergz)
+
+---------------
+
 <h1>v2.34.0</h1>
 
 **Three mods removed due to compat and crashing issues. Fixes & changes in mod updates.**
